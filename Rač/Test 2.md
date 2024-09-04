@@ -1,3 +1,0 @@
-Podatkovne Baze
-SQL
-DDL
