@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:Šola/Mat  ",
+      "color": {
+        "a": 1,
+        "rgb": 670719
+      }
+    },
+    {
+      "query": "path:Šola/Rso  ",
+      "color": {
+        "a": 1,
+        "rgb": 16643341
+      }
+    },
+    {
+      "query": "path:Šola/Rač  ",
+      "color": {
+        "a": 1,
+        "rgb": 15491332
+      }
+    },
+    {
+      "query": "file:Šola",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Šola/Nem  ",
+      "color": {
+        "a": 1,
+        "rgb": 97825
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 0.771843111061635,
+  "lineSizeMultiplier": 1.51659801847935,
+  "collapse-forces": false,
+  "centerStrength": 0.452966714905933,
+  "repelStrength": 8.29938031095773,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.5,
+  "linkDistance": 87,
+  "scale": 1.6454261890225128,
   "close": true
 }
