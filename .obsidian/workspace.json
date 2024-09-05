@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "190acf3dd638c2bc",
   "lastOpenFiles": [
+    "Šola/Mat/Zaporedja.md",
     "Šola/Mat/Matematika.md",
     "Šola/Rač/Informacijski sistemi (IS).md",
     "Šola/Rač/Podatek.md",
@@ -170,7 +171,6 @@
     "Šola/Mature/Ang/Matura iz Angleščine.md",
     "Šola/Rač/Sistem.md",
     "Šola/Nem/Nemščina.md",
-    "Šola/Mat/Zaporedja.md",
     "Šola/Rač/Test 4.md",
     "Šola/Rač/Testi.md",
     "Šola/Mat/pics/zaporedja_graf.png",
