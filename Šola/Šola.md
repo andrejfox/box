@@ -1,0 +1,4 @@
+- [[Matematika]]
+- [[Računalništvo]]
+- [[Računalniški sistemi in omrežja]]
+- [[Nemščina]]
