@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "190acf3dd638c2bc",
+            "id": "aa10561c6f445966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Šola/Mat/Zaporedja.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,6 +31,7 @@
       {
         "id": "76a5972860fe7e69",
         "type": "tabs",
+        "dimension": 60.08174386920982,
         "children": [
           {
             "id": "9b5d4c2f904f293b",
@@ -66,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "6b4baebe2d084ddf",
+        "type": "tabs",
+        "dimension": 39.91825613079019,
+        "children": [
+          {
+            "id": "190acf3dd638c2bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,12 +96,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "41e5b72f24c7beb8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "6b380533c3d45483",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Šola/Mat/Zaporedja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Šola/Mat/Zaporedja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Šola/Mat/Zaporedja.md"
               }
             }
-          },
-          {
-            "id": "41e5b72f24c7beb8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,16 +164,20 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "190acf3dd638c2bc",
+  "active": "aa10561c6f445966",
   "lastOpenFiles": [
     "Šola/Mat/Zaporedja.md",
     "Šola/Mat/Matematika.md",
+    "Šola/Nem/Nemščina.md",
+    "README.md",
     "Šola/Rač/Informacijski sistemi (IS).md",
     "Šola/Rač/Podatek.md",
     "Šola/Rač/Računalništvo.md",
@@ -170,7 +189,6 @@
     "Šola/Rač/Test 1.md",
     "Šola/Mature/Ang/Matura iz Angleščine.md",
     "Šola/Rač/Sistem.md",
-    "Šola/Nem/Nemščina.md",
     "Šola/Rač/Test 4.md",
     "Šola/Rač/Testi.md",
     "Šola/Mat/pics/zaporedja_graf.png",

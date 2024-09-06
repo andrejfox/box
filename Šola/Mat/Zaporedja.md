@@ -23,10 +23,10 @@ Graf zaporedja je množica urejenih parov (1, $a_1$), (2, $a_2$),...
 ![[zaporedja_graf.png]]
 
 **Lastnosti**
-Naraščajoče:$\qquad \qquad \quad \; a_n + 1 \geq a_n \quad n \in \mathbb{N}$
-Strogo naraščajoče:$\qquad a_n + 1 > a_n \quad n \in \mathbb{N}$
-Padajoče:$\qquad \qquad \qquad \;\;\: a_n + 1 \leq a_n \quad n \in \mathbb{N}$
-Strogo padajoče:$\qquad \quad \:\: a_n + 1 < a_n \quad n \in \mathbb{N}$
+Naraščajoče:$\qquad \qquad \quad \; a_{n + 1} \geq a_n \quad n \in \mathbb{N}$
+Strogo naraščajoče:$\qquad a_{n + 1} > a_n \quad n \in \mathbb{N}$
+Padajoče:$\qquad \qquad \qquad \;\;\: a_{n + 1} \leq a_n \quad n \in \mathbb{N}$
+Strogo padajoče:$\qquad \quad \:\: a_{n + 1} < a_n \quad n \in \mathbb{N}$
 
 **Omejenost**
 Zaporedje je omejeno, če je omejeno navzgor in navzdol.
