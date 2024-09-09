@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Šola/Mat/Zaporedja.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,46 +167,44 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "aa10561c6f445966",
   "lastOpenFiles": [
-    "Šola/Mat/Zaporedja.md",
-    "Šola/Mat/Matematika.md",
-    "Šola/Nem/Nemščina.md",
     "README.md",
+    "Šola/Rač/Računalništvo.md",
+    "Šola/Mat/pics/zaporedja_graf.png",
+    "Šola/Mat/pics",
+    "Šola/Mature/Ang/Matura iz Angleščine.md",
+    "Šola/Mature/Ang",
+    "Šola/Mature",
+    "Šola/Mat/Matematika.md",
+    "Šola/Rač/Testi.md",
+    "Šola/Rač/Sistem.md",
+    "Šola/Rač/Test 4.md",
+    "Šola/Rač/Test 3.md",
+    "Šola/Rač/Test 2.md",
+    "Šola/Rač/Test 1.md",
+    "Šola/Šola.md",
+    "Šola/Mat/Zaporedja.md",
+    "Šola/Nem/Nemščina.md",
     "Šola/Rač/Informacijski sistemi (IS).md",
     "Šola/Rač/Podatek.md",
-    "Šola/Rač/Računalništvo.md",
     "Šola/Rač/Informacija.md",
     "Šola/Rso/Rekurzija.md",
     "Šola/Rso/Računalniški sistemi in omrežja.md",
     "Šola/Rso/Dinamične strukture.md",
-    "Šola/Šola.md",
-    "Šola/Rač/Test 1.md",
-    "Šola/Mature/Ang/Matura iz Angleščine.md",
-    "Šola/Rač/Sistem.md",
-    "Šola/Rač/Test 4.md",
-    "Šola/Rač/Testi.md",
-    "Šola/Mat/pics/zaporedja_graf.png",
-    "Šola/Mat/pics",
     "Šola/Mat",
     "Things to do!.md",
     "Šola/Nem",
     "Untitled",
     "Šola/Rso",
     "Šola",
-    "Šola/Mature/Ang",
-    "Šola/Mature",
     "notes",
     "Šola/Rač",
     "Untitled.canvas",
     "2024-09-03.md",
-    "Šola/Rač/Test 3.md",
-    "Šola/Rač/Test 2.md",
     "[Podatek.md",
     "Welcome.md",
     "create a link.md"
