@@ -1,4 +1,4 @@
- Zaporedje je preslikava iz množice naravnih števil v množico realnih števil.
+ Zaporedje je preslikava iz množice naravnih števil v množico realnih števil.[[Aritmetična Zaporedja]]
  
 **Neskončna zaporedja:**
  $f: \mathbb{N} \rightarrow \mathbb{R}$
