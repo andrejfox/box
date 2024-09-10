@@ -2,9 +2,9 @@ Pravimo, da je množica A podmnožica množice B, če je vsak element množice A
 $A \subset B$ ali $A \subseteq B$
 
 Podmnožica množice $A$ je lahko tudi enaka množici $B$.
-Tiste podmnožice, ki niso enake množici $B$, imenujemo <u>**prave podmnožice**</u> množice $B$.
+Tiste podmnožice, ki **niso** enake množici $B$, imenujemo <u>**prave podmnožice**</u> množice $B$.
 
-Množici A in B sta enaki, če vsebujeta iste elemente.To je res, samo če je množica A podmnožica množice B, hkrati pa je tudi množica B podmnožica množice A.
+Množici A in B sta enaki, če vsebujeta iste elemente. To je res, samo če je množica A podmnožica množice B, hkrati pa je tudi množica B podmnožica množice A.
 $A = B \iff (A \subset B) \land (B \subset A)$
 ***
 <u>**Potenčna množica**</u> množice $A$ je množica vseh podmnožic množice $A$.

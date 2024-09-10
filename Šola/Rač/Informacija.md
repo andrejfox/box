@@ -17,9 +17,6 @@ Mib: $2^{20} = 1048576$
 Gib: $2^{30} = 1073741824$
 ...
 
-**Kakovost**
-točnost, popolnost, relevantnost, dosegljivost, preverljivost, dostopnost,...
-
 ***Vrednost***
 - Časovna odvisnost: (s časom pada vrednost)
 - prediktivna
