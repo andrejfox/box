@@ -1,2 +1,2 @@
 - [[Rekurzija]] in rekurzivni postopki.
-- Rekurzivne strukture
+- [[Rekurzivne strukture]]
