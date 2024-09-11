@@ -1,8 +1,7 @@
 **Besede glede na tvorjenost**
 
 **netvorjene** (korenske besede)
-KOREN (pomen besede) + KONČNICA
-\[miz- -a]
+$\underbrace{\text{KOREN (pomen besede)}}_{\text{miz-}}$ + $\underbrace{\text{KONČNICA}}_{\text{-a}}$
 
 **tvorjene** 
 BESEDOTVORNA PODSTAVA + OBRAZILO(morfem + končnica)
