@@ -4,7 +4,7 @@ Odločitveni model:
 2. Določitev kriterijev (Z vsakim kriterijem delujemo neodvisno od drugih)
 	- cena
 	- baterija
-	- ločlivost
+	- ločljivost
 	- velikost
 	- pomnilnik
 	- število kamer
@@ -18,7 +18,7 @@ Odločitveni model:
 	- cena 350€ - 700€ <- srednje
 	- cena > 700€ <- slab
 4. Funkcija koristnosti
-	- določimo ali so kombinacije lastnosti dobre / slabe
+	- določimo ali so vse možne kombinacije lastnosti dobre / slabe
 
 > [! Načini odločanja]
 > 1. Naključno odločanje
