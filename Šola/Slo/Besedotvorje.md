@@ -4,8 +4,7 @@
 $\underbrace{\text{KOREN (pomen besede)}}_{\text{miz-}}$ + $\underbrace{\text{KONČNICA}}_{\text{-a}}$
 
 **tvorjene** 
-BESEDOTVORNA PODSTAVA + OBRAZILO(morfem + končnica)
-\[miz- -ica]
+$\underbrace{\text{BESEDOTVORNA PODSTAVA}}_{\text{miz-}}$ + $\underbrace{\text{OBRAZILO(morfem + končnica)}}_{\text{-ica}}$
 -ic- morfem (je najmanjša pomenonosna enota jezika) (v tem je pomen: ppomanjševalnica)
 -a končnica
 
@@ -21,3 +20,4 @@ NE: podvozje <- spodnji del vozila, ki povezuje kolesa med seboj in s pogonjskim
 | sin-            | -ko/ -ek/ -ček  | sinko, sinek, sinček             |
 | zob-<br>-zdrav- | -o- -nik/ -nica | zobozdravnik,<br>zobozdravnica   |
 | -pisati         | na-/pre-/iz-    | napisati, prepisati,<br>izpisati |
+[[Vrste tvorjenk]]
