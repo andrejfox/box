@@ -1,2 +1,2 @@
 ### [[Zaporedja]]
-- [[Aritmetična Zaporedja]]
+- [[Aritmetična Zaporedja AZ]]

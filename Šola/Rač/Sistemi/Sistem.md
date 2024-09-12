@@ -7,3 +7,8 @@ Primeri sistemov:
 Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 
 [[Informacijski sistemi (IS)]]
+
+[[Delitve IS]]
+- [[Managerski IS]]
+- [[Transakcijski IS]]
+- [[Vodstveni IS (Exclusive Information System)]]

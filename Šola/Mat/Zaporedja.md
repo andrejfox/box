@@ -16,7 +16,7 @@ $a_n = (-2)^n$
 $-2, 4, -8, 16, -32,\dots$
 $-, +, -, +, -,\dots$
 
-**[[Aritmetična Zaporedja]]**
+**[[Aritmetična Zaporedja AZ]]**
 
 **Prikazi zaporedja:**
 1. Splošni prikaz:
