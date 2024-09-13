@@ -5,3 +5,5 @@
 - [[Računalniški sistemi in omrežja]]
 - [[Nemščina]]
 - [[Fizika]]
+
+[Diagrami](https://app.diagrams.net/)

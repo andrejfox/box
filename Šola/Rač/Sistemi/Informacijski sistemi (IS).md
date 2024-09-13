@@ -8,13 +8,12 @@ Gradniki informacijskega sistema
 - Pravila \[Ocena je od 1 - 5]
 - Ljudje \[vnašanje, obdelava, uporaba]
 
-Aktivnosti IS
-- **Sprejemanje** / **zajemanje** podatkov iz notranjih in zunanjih virov.
-- **obdelava podatkov** / **shranjevanje**.
-- **podajanje** informacij v zahtevani obliki.
+> [!Aktivnosti IS] 
+> - **Sprejemanje** / **zajemanje** podatkov iz notranjih in zunanjih virov.
+> - **obdelava podatkov** / **shranjevanje**.
+> - **podajanje** informacij v zahtevani obliki.
+> ![[diagram1.svg]]
 
-$VHOD => \underbrace{\text{OBDELAVA}}_{\text{BP}} => IZHOD: analize + poročila$
-
-podatek -> OBLIKOVANJE / FILTRIRANJE / AGREGIRANJE -> informacija -> INTERPRETIRANJE / ODLOČANJE / UKREPANJE -> rezultati -> PRIDOBIVANJE / ZBIRANJE ZNANJA -> znanje -> o f a + i o u
+![[diagram2.svg]]
 
 [[Delitve IS]]
