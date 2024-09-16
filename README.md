@@ -1,5 +1,5 @@
 # BOX
-This is the repo containing all of my notes. test
+This is the repo containing all of my notes.
 ### How to use:
 - Install [Obsidian](https://obsidian.md/)
 - Clone the repo
