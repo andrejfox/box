@@ -1,1 +1,2 @@
 [[Množice]]
+[[Logaritmi]]
