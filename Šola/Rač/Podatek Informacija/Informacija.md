@@ -33,9 +33,11 @@ Gib: $2^{30} = 1073741824$
 - Varnost - Informacija je zaščitena pred nepooblaščenimi uporabniki.
 
 
-**Hierarhija:** ($\uparrow$ pomen+, uporabnost+, kompleksnost+, količina-)
+**Hierarhija:**
 1. Meta zanje - Opis znanja
 2. Znanje - Velika količina informacij s katerimi lahko interpretiramo nove informacije
 3. [[Informacija]]
 4. [[Podatek]]
 5. Šumenje - podatki, ki jih ne znamo interpretirati
+***
+![[Pasted image 20240916170446.png]]

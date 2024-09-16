@@ -14,6 +14,8 @@ Gradniki informacijskega sistema
 > - **podajanje** informacij v zahtevani obliki.
 > ![[diagram1.svg]]
 
-![[diagram2.svg]]
+
+> [!"Neskončna zanka"]
+> ![[diagram2.svg]]
 
 [[Delitve IS]]
