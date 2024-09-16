@@ -17,6 +17,9 @@ $-2, 4, -8, 16, -32,\dots$
 $-, +, -, +, -,\dots$
 
 **[[Aritmetična Zaporedja AZ]]**
+[[Končna Aritmetična vrsta]]
+
+**[[Geometrijsko zaporedje GZ]]**
 
 **Prikazi zaporedja:**
 1. Splošni prikaz:
