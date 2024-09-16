@@ -2,7 +2,7 @@
 This is the repo containing all of my notes.
 ### How to use:
 - Install [Obsidian](https://obsidian.md/)
-- Clone the repo
+- Clone the repo `git clone https://github.com/andrejfox/box.git`
 - Open it as a vault threw Obsidian
 ### Plugins i use:
 - [GIT](obsidian://show-plugin?id=obsidian-git)
