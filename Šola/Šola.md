@@ -1,6 +1,7 @@
 - **[[Mature]]**
 - [[Matematika]]
 - [[Slovenščina]]
+- [[Angleščina]]
 - [[Računalništvo]]
 - [[Računalniški sistemi in omrežja]]
 - [[Nemščina]]
