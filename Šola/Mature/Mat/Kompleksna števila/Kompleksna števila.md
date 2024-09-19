@@ -20,3 +20,5 @@ Realno število $b$, ki nastopa v tem zapisu, imenujemo **imaginarna komponenta*
 
 Če je imaginarna komponenta števila $z$ enaka 0, ima število $z$ samo realno komponento. V tem primeru je število $z$ realno število. To pomeni, da realna števila razumemo kot podmnožico množice kompleksnih števil:
 $\mathbb{R} \subset \mathbb{C}$
+
+[[Računanje s kompleksnimi števili]]
