@@ -12,3 +12,15 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 - [[Managerski IS]]
 - [[Transakcijski IS]]
 - [[Vodstveni IS (Exclusive Information System)]]
+- [[Sistemi za avtomatizacijo pisarniškega poslovanja]]
+- [[Sistemi za podporo odločanju - SPO]]
+- [[Ekspertni sistemi (ES)]]
+
+[[Življenjski cikel (SDLC)]]
+
+**Razvojni modeli**
+- [[Code & Fix]]
+- [[Prototipni model]]
+- [[Model slapa]]
+- [[Agilne metodologije]]
+

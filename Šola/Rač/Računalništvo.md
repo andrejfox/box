@@ -7,5 +7,7 @@
 [[Sistem]]
 [[Informacijski sistemi (IS)]]
 [[Delitve IS]]
-# Odločitveni sistemi
+# Odločanje
+[[Odločanje]]
+[[Faze odločitvenega procesa]]
 [[Odločitveni sistemi (DEXi)]]

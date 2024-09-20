@@ -1,4 +1,3 @@
-#### Vodstveni IS (Exclusive Information System)
 - Namenjeni najvišjemu vodstvu organizacije.
 - Omogoča pogled / nadzor nad vsemi aktivnostmi organizacije (brez podrobnosti).
 - Pomaga pri vodenju organizacije (iskanju novih priložnosti za večjo konkurenčnost organizacije).

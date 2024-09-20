@@ -1,4 +1,3 @@
-#### Managerski IS
 Na osnovi podatkov, dobljenih od transakcijskega IS in na osnovi delovanja organizacije zagotavlja informacije in poročila.
 Podpora odločanju v primerih, ko so informacijske zahteve vnaprej opredeljene.
 

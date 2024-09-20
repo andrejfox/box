@@ -8,3 +8,9 @@
 [[Transakcijski IS]]
 [[Managerski IS]]
 [[Vodstveni IS (Exclusive Information System)]]
+[[Sistemi za avtomatizacijo pisarniškega poslovanja]]
+[[Sistemi za podporo odločanju - SPO]]
+[[Ekspertni sistemi (ES)]]
+
+#### Hierarhija uporabe IS
+![[Pasted image 20240920074158.png]]

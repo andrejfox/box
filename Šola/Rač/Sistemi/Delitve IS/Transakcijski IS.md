@@ -1,4 +1,3 @@
-#### Transakcijski IS
 transakcija = dogodek, ki ima določen vpliv na poslovanje v organizaciji.
 (Nakup enega izdelka, pridobljena ocena knjige, izposoja knjige, ...)
 TIS hrani in obdeluje podatke o poslovnih dogodkih.
