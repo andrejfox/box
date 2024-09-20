@@ -19,6 +19,9 @@ so strnitev večbesednih podstav BREZ OBRAZILA:
 nema- + -nič -> nemanič
 dva- + -in- + -tri- + deset -> dvaintrideset
 
+\***Krni** (besedotvorni način / postopek: krnitev)
+enodelna besedotvorna podstava brez obrazila
+valen- -tina -> valentina
 
 > [!Preglas]
 > -o -> -e
