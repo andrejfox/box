@@ -1,3 +1,10 @@
-[[Množice]]
+# [[Množice]]
+- [[Prazna množica]]
+- [[Zapis množice]]
+- [[Računanje z množicami]]
+- [[Moč množice]]
+- [[Podmnožica]]
+- [[Kartezični produkt množic]]
+
 [[Kompleksna števila]]
 [[Logaritmi]]

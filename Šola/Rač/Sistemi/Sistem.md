@@ -17,6 +17,7 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 - [[Ekspertni sistemi (ES)]]
 
 [[Življenjski cikel (SDLC)]]
+[[Programsko inženirstvo (DEF.)]]
 
 **Razvojni modeli**
 - [[Code & Fix]]

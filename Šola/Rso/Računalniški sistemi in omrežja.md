@@ -1,1 +1,3 @@
-[[Dinamične strukture]]
+## [[Dinamične strukture]]
+- [[Rekurzija]]
+- [[Rekurzivne strukture]]

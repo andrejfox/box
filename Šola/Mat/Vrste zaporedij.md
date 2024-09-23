@@ -4,5 +4,4 @@ $-2, 4, -8, 16, -32,\dots$
 $-, +, -, +, -,\dots$
 
 [[Aritmetična Zaporedja AZ]]
-
-[[Geometrijsko zaporedje GZ]]
+[[Geometrijsko Zaporedje GZ]]

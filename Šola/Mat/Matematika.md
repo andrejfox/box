@@ -1,4 +1,9 @@
 ### [[Zaporedja]]
-- [[Aritmetična Zaporedja AZ]]
-	- [[Končna Aritmetična vrsta]]
-- [[Geometrijsko zaporedje GZ]]
+- [[Lastnosti zaporedij]]
+- [[Vrste zaporedij]]
+	- [[Aritmetična Zaporedja AZ]]
+		- [[Končna Aritmetična vrsta]]
+	- [[Geometrijsko Zaporedje GZ]]
+		- [[Končna Geometrijska vrsta]]
+- [[Popolna Indukcija]]
+

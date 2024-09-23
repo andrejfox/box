@@ -1,7 +1,6 @@
  Zaporedje je preslikava iz množice naravnih števil v množico realnih števil.
 
 [[Vrste zaporedij]]
-
 **[[Lastnosti zaporedij]]**
  
 **Neskončna zaporedja:**
