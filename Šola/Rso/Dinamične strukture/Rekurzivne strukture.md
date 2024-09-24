@@ -2,6 +2,8 @@ Strukture:
 Class
 ~~Record~~ (je statičen po naravi, zato ni primeren)
 
+[[Queue]]
+
 ```java
 class Raz {
 	int a;

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e1eec8116c76c684","type":"text","text":"direkte","x":-340,"y":-100,"width":250,"height":60},
+		{"id":"04c998244f01e81b","type":"text","text":"Ergänzungsfrage\nWer kommst mit?\nW - fragen","x":-340,"y":40,"width":250,"height":90},
+		{"id":"ae53fa7fd17b17ea","type":"text","text":"Entscheidungsfragen\nKommst du mit?\nJa / Nein.","x":-720,"y":40,"width":250,"height":90},
+		{"id":"eaac9ddde2c88162","type":"file","file":"Šola/Nem/Fragen.md","x":-249,"y":-380,"width":434,"height":198},
+		{"id":"bef1e2399afcc510","type":"text","text":"indirekte","x":20,"y":-100,"width":250,"height":60},
+		{"id":"babef27633d6ff85","type":"text","text":"... ob du mit kommst","x":20,"y":55,"width":250,"height":60},
+		{"id":"6f5f749318539096","type":"text","text":"... wer mitkommt!","x":400,"y":55,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"726fa50598ac4d29","fromNode":"e1eec8116c76c684","fromSide":"bottom","toNode":"04c998244f01e81b","toSide":"top"},
+		{"id":"4f549f160ff109e4","fromNode":"e1eec8116c76c684","fromSide":"bottom","toNode":"ae53fa7fd17b17ea","toSide":"top"},
+		{"id":"fc51dcf0a0fab3b9","fromNode":"bef1e2399afcc510","fromSide":"bottom","toNode":"babef27633d6ff85","toSide":"top"},
+		{"id":"49168fd4d8e02bb6","fromNode":"bef1e2399afcc510","fromSide":"bottom","toNode":"6f5f749318539096","toSide":"top"},
+		{"id":"66b58d41e11b2acc","fromNode":"eaac9ddde2c88162","fromSide":"bottom","toNode":"bef1e2399afcc510","toSide":"top"},
+		{"id":"7e9952e5cecd1580","fromNode":"eaac9ddde2c88162","fromSide":"bottom","toNode":"e1eec8116c76c684","toSide":"top"}
+	]
+}
