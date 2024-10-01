@@ -11,13 +11,8 @@ $a_4 = a_1 * q^3$
 $\dots$
 $a_n = a_1 * q^{n - 1}$ -> Splošni člen GZ
 
-$k < 0$ -> alternirajoče zaporedje
-
-[[Limita zaporedja]]
-$|k| > 1$ -> **konvergentno zaporedje**.
-$|k| < 1$ -> **divergentno zaporedje**.
-$k = 1$ -> **konvergentno zaporedje**. (konstantno zaporedje)
-$k = -1$ -> **divergentno zaporedje**. (dve stikališči)
+$q < 0$ -> alternirajoče zaporedje
+$q > 0$ -> 
 
 Geometrijska sredina števil $a, b > 0$: $\sqrt{a * b}$ <-(obstaja samo za pozitivna števila)
 
