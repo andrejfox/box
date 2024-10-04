@@ -7,3 +7,5 @@
 		- [[Končna Geometrijska vrsta]]
 - [[Popolna Indukcija]]
 
+[[Kombinatorika]]
+

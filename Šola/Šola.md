@@ -7,5 +7,7 @@
 - [[Nemščina]]
 - [[Fizika]]
 
+[[Delitve IS]]
+
 **Tools:**
 [Diagrami](https://app.diagrams.net/)

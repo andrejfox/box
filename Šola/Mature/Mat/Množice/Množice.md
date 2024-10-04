@@ -8,4 +8,4 @@ Dejstvo, da množica _M_ vsebuje element _a_, označimo: $a \in M$
 [[Računanje z množicami]]
 [[Moč množice]]
 [[Podmnožica]]
-[[Kartezični produkt množic]]
+[[Kartezični produkt]]

@@ -4,7 +4,7 @@
 - [[Računanje z množicami]]
 - [[Moč množice]]
 - [[Podmnožica]]
-- [[Kartezični produkt množic]]
+- [[Kartezični produkt]]
 
 [[Kompleksna števila]]
 [[Logaritmi]]
