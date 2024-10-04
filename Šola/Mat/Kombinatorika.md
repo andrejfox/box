@@ -27,7 +27,7 @@ Primer:
 1. 2 juhi, 3 glavne jedi, 2 sladici
 $2 * 3 * 2 = 12$
 
-**Pravilo produkt**
+**Pravilo produkta**
 Proces izbiranja poteka v več fazah ($k$).
 Faze izbiranja so med seboj neodvisne.
 V vsaki fazi izberemo eno izmed ponujenih možnosti.
