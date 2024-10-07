@@ -1,4 +1,4 @@
-Pomen, ki ga dodelimo Podatku. \[[[Podatek]]]
+#Informacija je pomen, ki ga dodelimo Podatku. \[[[Podatek]]]
 - Brez podatka ni informacije
 - podatek ni nujno informacija
 

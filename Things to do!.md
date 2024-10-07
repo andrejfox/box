@@ -1,6 +1,6 @@
 - [ ] LogUm zrihtaj inštrukcije
 - [ ] Plača Maj + Junij
-- [ ] Plača Poletna
+- [x] Plača Poletna
 - [ ] Plača Pomladni 5 Hek
-- [ ] nem dn u/98/13,14
+- [ ] Priporočilno pismo (Numerično, leto leto, število učencev starost, udeleživ se je,... )
 

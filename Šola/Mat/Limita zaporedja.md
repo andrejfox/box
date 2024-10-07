@@ -31,5 +31,3 @@ Izven so štirje členi:
 $|1 - a_n| < \frac{1}{10}$
 $1 - \frac{n - 2}{n} < \frac{1}{10}$
 $-\frac{n - 2}{n} < -\frac{9}{10}$
-
-$$
