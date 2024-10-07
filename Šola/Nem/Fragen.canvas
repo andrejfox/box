@@ -1,12 +1,15 @@
 {
 	"nodes":[
 		{"id":"e1eec8116c76c684","type":"text","text":"direkte","x":-340,"y":-100,"width":250,"height":60},
-		{"id":"04c998244f01e81b","type":"text","text":"Ergänzungsfrage\nWer kommst mit?\nW - fragen","x":-340,"y":40,"width":250,"height":90},
-		{"id":"ae53fa7fd17b17ea","type":"text","text":"Entscheidungsfragen\nKommst du mit?\nJa / Nein.","x":-720,"y":40,"width":250,"height":90},
-		{"id":"eaac9ddde2c88162","type":"file","file":"Šola/Nem/Fragen.md","x":-249,"y":-380,"width":434,"height":198},
 		{"id":"bef1e2399afcc510","type":"text","text":"indirekte","x":20,"y":-100,"width":250,"height":60},
-		{"id":"babef27633d6ff85","type":"text","text":"... ob du mit kommst","x":20,"y":55,"width":250,"height":60},
-		{"id":"6f5f749318539096","type":"text","text":"... wer mitkommt!","x":400,"y":55,"width":250,"height":60}
+		{"id":"19ca257595b85b75","type":"text","text":"Er hat mich gfragt, od ich mit komme?","x":35,"y":135,"width":220,"height":80},
+		{"id":"babef27633d6ff85","type":"text","text":"... ob du mit kommst\n(če prideš zraven)","x":5,"y":55,"width":250,"height":60},
+		{"id":"19001bfa528946d3","type":"text","text":"Ich habe dich gefragt, ob du mit kommst.\n()","x":5,"y":240,"width":235,"height":60},
+		{"id":"eaac9ddde2c88162","type":"file","file":"Šola/Nem/Fragen.md","x":-320,"y":-480,"width":549,"height":280},
+		{"id":"ae53fa7fd17b17ea","type":"text","text":"Entscheidungsfragen (odločitvena vprašanja)\nKommst du mit?\nJa / Nein.","x":-660,"y":55,"width":250,"height":120},
+		{"id":"04c998244f01e81b","type":"text","text":"Ergänzungsfrage\n*dodatno vprašanje*\nWer kommt mit? *Kdo gre/pride zraven?*\nW - fragen","x":-387,"y":55,"width":367,"height":120},
+		{"id":"02cd75e74ffd67b9","type":"text","text":"ich komme\ndu kommst\ner/sie/es kommt\nwir kommen\nihr kommt\nsie/Sie kommen","x":-540,"y":200,"width":250,"height":175},
+		{"id":"6f5f749318539096","type":"text","text":"Ich habe gefragt wer mitkommt!*Vprašal sem kdo pride zraven.*","x":320,"y":20,"width":320,"height":95}
 	],
 	"edges":[
 		{"id":"726fa50598ac4d29","fromNode":"e1eec8116c76c684","fromSide":"bottom","toNode":"04c998244f01e81b","toSide":"top"},
