@@ -1,9 +1,3 @@
----
-tags:
-  - Osnovni-izrek-kombinatorike
-  - Pravilo-vsote
-  - Pravilo-produkta
----
 [[Permutacija]]
 [[Variacije]]
 
