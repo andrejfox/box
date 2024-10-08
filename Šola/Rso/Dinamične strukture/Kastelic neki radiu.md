@@ -1,6 +1,5 @@
 $\log_2{N}$
 $\log_3{N}$
-[[Untitled.canvas]]
 ```java
 class Main{
 	public static void main(String[] args) {
