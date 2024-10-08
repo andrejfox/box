@@ -3,4 +3,5 @@
 - [x] Plača Poletna
 - [ ] Plača Pomladni 5 Hek
 - [ ] Priporočilno pismo (Numerično, leto leto, število učencev starost, udeleživ se je,... )
+- [ ] dej sari tablete
 
