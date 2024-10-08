@@ -1,7 +1,15 @@
  Zaporedje je preslikava iz množice naravnih števil v množico realnih števil.
 
-[[Vrste zaporedij]]
 **[[Lastnosti zaporedij]]**
+[[Limita zaporedja]]
+
+[[Aritmetična Zaporedja AZ]]
+[[Geometrijsko Zaporedje GZ]]
+
+**Alternirajoče zaporedje**
+$a_n = (-2)^n$
+$-2, 4, -8, 16, -32,\dots$
+$-, +, -, +, -,\dots$
  
 **Neskončna zaporedja:**
  $f: \mathbb{N} \rightarrow \mathbb{R}$

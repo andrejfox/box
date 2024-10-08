@@ -1,5 +1,5 @@
-#Exception
-- RuntimeException
+#Exception 
+Runtime Exception
 obravnava, delegiranje
  ```java
  try {

@@ -1,4 +1,4 @@
-[[Permutacija]] je vsaka razporeditev $n$ elementov v kakršno koli vrsto.
+#Permutacija je vsaka razporeditev $n$ elementov v kakršno koli vrsto.
 
 **Permutacije brez ponavljanja**
 $n$ elementov v vrsto

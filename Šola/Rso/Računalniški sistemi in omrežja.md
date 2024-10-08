@@ -1,3 +1,5 @@
 ## [[Dinamične strukture]]
 - [[Rekurzija]]
 - [[Rekurzivne strukture]]
+- [[Razprševanje]]
+- [[Izjemni dogodki]]

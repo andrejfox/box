@@ -25,3 +25,5 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 - [[Model slapa]]
 - [[Agilne metodologije]]
 
+[[Zapisovanje primerov uporabe]]
+

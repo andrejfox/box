@@ -1,5 +1,4 @@
-[Učbenik](https://lusy.fri.uni-lj.si/ucbenik/book/index.html)
-
+### [Učbenik](https://lusy.fri.uni-lj.si/ucbenik/book/index.html)
 80% - pisni del (zunanji del) (dve poli)
 	- 1. pola - enostavne naloge
 	- 2. pola - strukturirane naloge
@@ -56,3 +55,6 @@ predpomnilnik
 		- metode dela (pregled literature -> hipoteza -> code & fix)
 		- kazalo
 	4. predstavitev
+
+---
+[[Vaje]]

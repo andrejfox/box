@@ -1,5 +1,3 @@
-$\log_2{N}$
-$\log_3{N}$
 ```java
 class Main{
 	public static void main(String[] args) {

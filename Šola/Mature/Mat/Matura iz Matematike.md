@@ -8,3 +8,4 @@
 
 [[Kompleksna števila]]
 [[Logaritmi]]
+[[Absolutna vrednost]]
