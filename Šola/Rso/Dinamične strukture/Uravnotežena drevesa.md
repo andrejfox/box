@@ -24,3 +24,6 @@ hashMap O(1) <- hitro iskanje
 `[- - - - - -]`
 hashTree O($\log_{2}{N}$) <- strukturiranost, razvrščanje
 `[[elsementi], [ključi]]`
+
+DF
+WF
