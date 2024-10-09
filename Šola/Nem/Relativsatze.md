@@ -3,6 +3,6 @@ $\underbrace{\text{Der Kellner, }}_{\text{Hauptsatz (glavni stavek)}} \underbrac
 |                   | m      | n      | f     | Pl.   |
 | ----------------- | ------ | ------ | ----- | ----- |
 | 1. Fall (wer/was) | der    | das    | die   | die   |
-| 2. Fall (wessen)  | dessen | dessen | deren | derer |
+| 2. Fall (wessen)  | dessen | dessen | deren | deren |
 | 3. Fall (wem/was) | dem    | dem    | der   | denen |
 | 4. Fall (wen/was) | den    | das    | die   | die   |
