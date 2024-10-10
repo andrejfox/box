@@ -26,4 +26,5 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 - [[Agilne metodologije]]
 
 [[Zapisovanje primerov uporabe]]
+[[UML]]
 
