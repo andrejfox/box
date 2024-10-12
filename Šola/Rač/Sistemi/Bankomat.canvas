@@ -1,186 +1,359 @@
 {
-	"nodes":[
-		{
-			"id":"6a5ead3e852aa7a8",
-			"type":"group",
-			"styleAttributes":{},
-			"x":-1360,
-			"y":-320,
-			"width":680,
-			"height":760,
-			"label":"Bankomat"
-		},
-		{
-			"id":"82bb8f42402ab357",
-			"type":"text",
-			"text":"popravilo enostavnih napak",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1198,
-			"y":-5,
-			"width":288,
-			"height":50
-		},
-		{
-			"id":"2891eb084aeb367a",
-			"type":"text",
-			"text":"dvig",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1115,
-			"y":-260,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"960e9f1219ee5ee6",
-			"type":"text",
-			"text":"napake pri prijavi",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-926,
-			"y":120,
-			"width":200,
-			"height":50
-		},
-		{
-			"id":"5d70cbdbce7012b3",
-			"type":"text",
-			"text":"popravilo zahtevnih napak",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1054,
-			"y":240,
-			"width":288,
-			"height":50
-		},
-		{
-			"id":"62d7b4c0049ec603",
-			"type":"text",
-			"text":"serviser",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1620,
-			"y":-140,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"09da6422739e84b5",
-			"type":"text",
-			"text":"proizvajalec",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-621,
-			"y":120,
-			"width":180,
-			"height":50
-		},
-		{
-			"id":"f74add8d278a7b53",
-			"type":"text",
-			"text":"uporabnik",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1620,
-			"y":-250,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"51004eed25d8bcd3",
-			"type":"text",
-			"text":"varnostna služba",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1650,
-			"y":-30,
-			"width":205,
-			"height":50
-		},
-		{
-			"id":"3b05db982f342064",
-			"type":"text",
-			"text":"stanje",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1115,
-			"y":-200,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"4c82b0e61f9b29a8",
-			"type":"text",
-			"text":"prelog",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1115,
-			"y":-140,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"31541fa882dd0016",
-			"type":"text",
-			"text":"dopolnitev zaloge",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1315,
-			"y":290,
-			"width":201,
-			"height":50
-		},
-		{
-			"id":"1f4754c1d39194f1",
-			"type":"text",
-			"text":"bančni informacijski sistem",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-587,
-			"y":-80,
-			"width":292,
-			"height":50
-		},
-		{
-			"id":"49bd53fb57f2d1c6",
-			"type":"text",
-			"text":"prenos",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1115,
-			"y":-80,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"fad6e1808cfadfc3",
-			"type":"text",
-			"text":"prijave",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-838,
-			"y":-5,
-			"width":145,
-			"height":50
-		},
-		{
-			"id":"d839a0cdaefa6012",
-			"type":"text",
-			"text":"popravilo napak",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-1315,
-			"y":120,
-			"width":195,
-			"height":50
-		}
-	],
-	"edges":[
-		{"id":"a57928f9295f298f","fromNode":"f74add8d278a7b53","fromSide":"right","toNode":"2891eb084aeb367a","toSide":"left"},
-		{"id":"bc0797c13606e174","fromNode":"f74add8d278a7b53","fromSide":"right","toNode":"3b05db982f342064","toSide":"left"},
-		{"id":"dbcd31bbd971cd6a","fromNode":"f74add8d278a7b53","fromSide":"right","toNode":"4c82b0e61f9b29a8","toSide":"left"},
-		{"id":"6a518c44d1a0d9ef","fromNode":"f74add8d278a7b53","fromSide":"right","toNode":"49bd53fb57f2d1c6","toSide":"left"},
-		{"id":"157a50096cd4dea4","fromNode":"2891eb084aeb367a","fromSide":"right","toNode":"fad6e1808cfadfc3","toSide":"top","color":"1","label":"include"},
-		{"id":"f30fcd4ca879524f","fromNode":"3b05db982f342064","fromSide":"right","toNode":"fad6e1808cfadfc3","toSide":"top","color":"1","label":"include"},
-		{"id":"08a57931742b4b66","fromNode":"4c82b0e61f9b29a8","fromSide":"right","toNode":"fad6e1808cfadfc3","toSide":"top","color":"1","label":"include"},
-		{"id":"a7818cb2b135f044","fromNode":"49bd53fb57f2d1c6","fromSide":"right","toNode":"fad6e1808cfadfc3","toSide":"top","color":"1","label":"include"},
-		{"id":"f31e2566f3c3231c","fromNode":"960e9f1219ee5ee6","fromSide":"top","toNode":"fad6e1808cfadfc3","toSide":"bottom","color":"5","label":"extends"},
-		{"id":"2220c79ed3c199aa","fromNode":"82bb8f42402ab357","fromSide":"bottom","toNode":"d839a0cdaefa6012","toSide":"top","color":"5","label":"extends"},
-		{"id":"45638b04d03e9c74","fromNode":"5d70cbdbce7012b3","fromSide":"top","toNode":"d839a0cdaefa6012","toSide":"bottom","color":"5","label":"extends"},
-		{"id":"8ee7618449f90119","fromNode":"09da6422739e84b5","fromSide":"left","toNode":"5d70cbdbce7012b3","toSide":"right"},
-		{"id":"a58cdc5d373e8c30","fromNode":"1f4754c1d39194f1","fromSide":"left","toNode":"49bd53fb57f2d1c6","toSide":"right"},
-		{"id":"9ed7a97f79d7fdef","fromNode":"1f4754c1d39194f1","fromSide":"left","toNode":"4c82b0e61f9b29a8","toSide":"right"},
-		{"id":"97ab995bdb573441","fromNode":"1f4754c1d39194f1","fromSide":"left","toNode":"3b05db982f342064","toSide":"right"},
-		{"id":"1569475d2de8f84c","fromNode":"1f4754c1d39194f1","fromSide":"left","toNode":"2891eb084aeb367a","toSide":"right"},
-		{"id":"d202728bc2204071","fromNode":"51004eed25d8bcd3","fromSide":"bottom","toNode":"31541fa882dd0016","toSide":"left"},
-		{"id":"fbd291a5cab9dc97","fromNode":"62d7b4c0049ec603","fromSide":"right","toNode":"82bb8f42402ab357","toSide":"left"},
-		{"id":"e4dd9f6c544e79c9","fromNode":"62d7b4c0049ec603","fromSide":"right","toNode":"d839a0cdaefa6012","toSide":"left"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "6a5ead3e852aa7a8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1360,
+      "y": -300,
+      "width": 680,
+      "height": 740,
+      "label": "Bankomat"
+    },
+    {
+      "id": "82bb8f42402ab357",
+      "type": "text",
+      "text": "popravilo enostavnih napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1198,
+      "y": -5,
+      "width": 288,
+      "height": 50
+    },
+    {
+      "id": "2891eb084aeb367a",
+      "type": "text",
+      "text": "dvig",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -260,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "62d7b4c0049ec603",
+      "type": "text",
+      "text": "serviser",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1620,
+      "y": -140,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "f74add8d278a7b53",
+      "type": "text",
+      "text": "uporabnik",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1620,
+      "y": -250,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "51004eed25d8bcd3",
+      "type": "text",
+      "text": "varnostna služba",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1650,
+      "y": -30,
+      "width": 205,
+      "height": 50
+    },
+    {
+      "id": "31541fa882dd0016",
+      "type": "text",
+      "text": "dopolnitev zaloge",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 290,
+      "width": 201,
+      "height": 50
+    },
+    {
+      "id": "d839a0cdaefa6012",
+      "type": "text",
+      "text": "popravilo napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 120,
+      "width": 195,
+      "height": 50
+    },
+    {
+      "id": "960e9f1219ee5ee6",
+      "type": "text",
+      "text": "napake pri prijavi",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -910,
+      "y": 145,
+      "width": 200,
+      "height": 50
+    },
+    {
+      "id": "fad6e1808cfadfc3",
+      "type": "text",
+      "text": "prijave",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -838,
+      "y": -5,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "5d70cbdbce7012b3",
+      "type": "text",
+      "text": "popravilo zahtevnih napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1054,
+      "y": 240,
+      "width": 288,
+      "height": 50
+    },
+    {
+      "id": "3b05db982f342064",
+      "type": "text",
+      "text": "stanje",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -200,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "4c82b0e61f9b29a8",
+      "type": "text",
+      "text": "prelog",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -140,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "49bd53fb57f2d1c6",
+      "type": "text",
+      "text": "prenos",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -80,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "1f4754c1d39194f1",
+      "type": "text",
+      "text": "bančni informacijski sistem",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -621,
+      "y": -80,
+      "width": 292,
+      "height": 50
+    },
+    {
+      "id": "09da6422739e84b5",
+      "type": "text",
+      "text": "proizvajalec",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -600,
+      "y": 45,
+      "width": 180,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "a57928f9295f298f",
+      "fromNode": "f74add8d278a7b53",
+      "fromSide": "right",
+      "toNode": "2891eb084aeb367a",
+      "toSide": "left"
+    },
+    {
+      "id": "bc0797c13606e174",
+      "fromNode": "f74add8d278a7b53",
+      "fromSide": "right",
+      "toNode": "3b05db982f342064",
+      "toSide": "left"
+    },
+    {
+      "id": "dbcd31bbd971cd6a",
+      "fromNode": "f74add8d278a7b53",
+      "fromSide": "right",
+      "toNode": "4c82b0e61f9b29a8",
+      "toSide": "left"
+    },
+    {
+      "id": "6a518c44d1a0d9ef",
+      "fromNode": "f74add8d278a7b53",
+      "fromSide": "right",
+      "toNode": "49bd53fb57f2d1c6",
+      "toSide": "left"
+    },
+    {
+      "id": "157a50096cd4dea4",
+      "fromNode": "2891eb084aeb367a",
+      "fromSide": "right",
+      "toNode": "fad6e1808cfadfc3",
+      "toSide": "top",
+      "color": "1",
+      "label": "include"
+    },
+    {
+      "id": "f30fcd4ca879524f",
+      "fromNode": "3b05db982f342064",
+      "fromSide": "right",
+      "toNode": "fad6e1808cfadfc3",
+      "toSide": "top",
+      "color": "1",
+      "label": "include"
+    },
+    {
+      "id": "08a57931742b4b66",
+      "fromNode": "4c82b0e61f9b29a8",
+      "fromSide": "right",
+      "toNode": "fad6e1808cfadfc3",
+      "toSide": "top",
+      "color": "1",
+      "label": "include"
+    },
+    {
+      "id": "a7818cb2b135f044",
+      "fromNode": "49bd53fb57f2d1c6",
+      "fromSide": "right",
+      "toNode": "fad6e1808cfadfc3",
+      "toSide": "top",
+      "color": "1",
+      "label": "include"
+    },
+    {
+      "id": "f31e2566f3c3231c",
+      "fromNode": "960e9f1219ee5ee6",
+      "fromSide": "top",
+      "toNode": "fad6e1808cfadfc3",
+      "toSide": "bottom",
+      "color": "5",
+      "label": "extends"
+    },
+    {
+      "id": "2220c79ed3c199aa",
+      "fromNode": "82bb8f42402ab357",
+      "fromSide": "bottom",
+      "toNode": "d839a0cdaefa6012",
+      "toSide": "top",
+      "color": "5",
+      "label": "extends"
+    },
+    {
+      "id": "45638b04d03e9c74",
+      "fromNode": "5d70cbdbce7012b3",
+      "fromSide": "top",
+      "toNode": "d839a0cdaefa6012",
+      "toSide": "bottom",
+      "color": "5",
+      "label": "extends"
+    },
+    {
+      "id": "8ee7618449f90119",
+      "fromNode": "09da6422739e84b5",
+      "fromSide": "left",
+      "toNode": "5d70cbdbce7012b3",
+      "toSide": "right"
+    },
+    {
+      "id": "a58cdc5d373e8c30",
+      "fromNode": "1f4754c1d39194f1",
+      "fromSide": "left",
+      "toNode": "49bd53fb57f2d1c6",
+      "toSide": "right"
+    },
+    {
+      "id": "9ed7a97f79d7fdef",
+      "fromNode": "1f4754c1d39194f1",
+      "fromSide": "left",
+      "toNode": "4c82b0e61f9b29a8",
+      "toSide": "right"
+    },
+    {
+      "id": "97ab995bdb573441",
+      "fromNode": "1f4754c1d39194f1",
+      "fromSide": "left",
+      "toNode": "3b05db982f342064",
+      "toSide": "right"
+    },
+    {
+      "id": "1569475d2de8f84c",
+      "fromNode": "1f4754c1d39194f1",
+      "fromSide": "left",
+      "toNode": "2891eb084aeb367a",
+      "toSide": "right"
+    },
+    {
+      "id": "d202728bc2204071",
+      "fromNode": "51004eed25d8bcd3",
+      "fromSide": "bottom",
+      "toNode": "31541fa882dd0016",
+      "toSide": "left"
+    },
+    {
+      "id": "fbd291a5cab9dc97",
+      "fromNode": "62d7b4c0049ec603",
+      "fromSide": "right",
+      "toNode": "82bb8f42402ab357",
+      "toSide": "left"
+    },
+    {
+      "id": "e4dd9f6c544e79c9",
+      "fromNode": "62d7b4c0049ec603",
+      "fromSide": "right",
+      "toNode": "d839a0cdaefa6012",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
 }
