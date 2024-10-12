@@ -1,4 +1,4 @@
-Vanja: [[Dmače naloge]]
+[[Vanja]]
 [DZ](https://fliphtml5.com/qpqfs/pcof/studio_21_A2_L%C3%96SUNGEN_Einheiten_%C3%9Cbungen_Einstufungstest/)
 
 **test 1**
