@@ -3,7 +3,7 @@ Variacijo: nekateri elementi v vrsto
 
 [[Lastnosti binomskih simbolov]]
 
-Kombinacije: Imamo $n$ elementov, od tega izberemo $r$ elementov in jih ne razporedimo .
+Kombinacije: Imamo $n$ elementov, od tega izberemo $r$ elementov in jih ne razporedimo.
 Vrstni red ni pomemben!
 
 $$C_n^r = \frac{V_n^r}{r!} = \frac{n}{(n - r)! * r!)} = \frac{n * (n - 1) * \dots * (n - r + 1)}{r * (r - 1) * \dots * 1}$$

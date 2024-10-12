@@ -8,9 +8,7 @@
 3. Relativsaetze
 4. Personalpronomen (1., 3., 4. fall)
 5. Uebersetzungen (Prevodi)
-6. Kurze Mitteilungen (kratka sporočila)
-
-pisanje krajših besedil ???
+6. Kurze Mitteilungen (kratka sporočila / pisanje krajših besedil)
 
 [[Nove besede]]
 [[Fragen]]
