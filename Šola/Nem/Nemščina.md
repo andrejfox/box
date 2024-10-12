@@ -4,17 +4,17 @@ Vanja: [[Dmače naloge]]
 **test 1**
 (6 primerov na nalogo)
 1. indirekte & direkte fragen
-2. Starken Adjaktivdeklination
-3. relativsatze
+2. Starken Adjaktivdeklination (sklanjanje "močnih" pridevnikov)
+3. Relativsaetze
 4. Personalpronomen (1., 3., 4. fall)
-5. Ubersetzungen
-6. Kurze Mitteilungen
+5. Uebersetzungen (Prevodi)
+6. Kurze Mitteilungen (kratka sporočila)
 
 pisanje krajših besedil ???
 
 [[Nove besede]]
 [[Fragen]]
-[[Personalpronomen (zaimki)]]
+[[Personalpronomen (Osebni zaimki)]]
 [[Relativsatze]]
 [[3. + 4. sklon]]
 
