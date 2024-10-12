@@ -2,11 +2,12 @@
   "nodes": [
     {
       "id": "6a5ead3e852aa7a8",
+      "type": "group",
+      "styleAttributes": {},
       "x": -1360,
       "y": -320,
       "width": 680,
       "height": 760,
-      "type": "group",
       "label": "Bankomat"
     },
     {
@@ -114,6 +115,32 @@
       "height": 50
     },
     {
+      "id": "5d70cbdbce7012b3",
+      "type": "text",
+      "text": "popravilo zahtevnih napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1054,
+      "y": 240,
+      "width": 288,
+      "height": 50
+    },
+    {
+      "id": "62d7b4c0049ec603",
+      "type": "text",
+      "text": "serviser",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1620,
+      "y": -140,
+      "width": 145,
+      "height": 50
+    },
+    {
       "id": "09da6422739e84b5",
       "type": "text",
       "text": "proizvajalec",
@@ -166,19 +193,6 @@
       "height": 50
     },
     {
-      "id": "5d70cbdbce7012b3",
-      "type": "text",
-      "text": "popravilo zahtevnih napak",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1054,
-      "y": 240,
-      "width": 288,
-      "height": 50
-    },
-    {
       "id": "fad6e1808cfadfc3",
       "type": "text",
       "text": "prijave",
@@ -188,19 +202,6 @@
       },
       "x": -898,
       "y": -5,
-      "width": 145,
-      "height": 50
-    },
-    {
-      "id": "62d7b4c0049ec603",
-      "type": "text",
-      "text": "serviser",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1620,
-      "y": -140,
       "width": 145,
       "height": 50
     }

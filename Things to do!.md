@@ -5,4 +5,4 @@
 - [ ] Priporočilno pismo (Numerično, leto leto, število učencev starost, udeleživ se je,... )
 - [x] dej sari tablete
 - [ ] opravičili za danes in matematiko
-
+- [ ] DN matematiko
