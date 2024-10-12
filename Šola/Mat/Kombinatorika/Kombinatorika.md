@@ -1,6 +1,9 @@
 [[Permutacija]]
 [[Variacije]]
 
+[[Kombinacije]]
+[[Lastnosti binomskih simbolov]]
+
 Množice in preslikave
 [[Podmnožica]] $A \subset B$
 [[Moč množice]] $m(A)$
