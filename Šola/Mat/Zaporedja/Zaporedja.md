@@ -1,15 +1,11 @@
  Zaporedje je preslikava iz množice naravnih števil v množico realnih števil.
 
 **[[Lastnosti zaporedij]]**
-[[Limita zaporedja]]
 
 [[Aritmetična Zaporedja AZ]]
 [[Geometrijsko Zaporedje GZ]]
 
-**Alternirajoče zaporedje**
-$a_n = (-2)^n$
-$-2, 4, -8, 16, -32,\dots$
-$-, +, -, +, -,\dots$
+[[Limita zaporedja]]
  
 **Neskončna zaporedja:**
  $f: \mathbb{N} \rightarrow \mathbb{R}$
@@ -27,8 +23,10 @@ $a_n = \frac{1}{n}$
 $a_1, a_2, a_3,\dots$
 3. Rekurzivno zaporedje:
 $a_1 = 1$, $a_2 = 1$
-$a_{n + 2} = a_n + a_{n + 1}$
+$a_{n + 2} = a_n + a_{n + 1}$ <- Fibonaccijevo zaporedje
 
 
 Graf zaporedja je množica urejenih parov (1, $a_1$), (2, $a_2$),...
 ![[zaporedja_graf.png]]
+
+---

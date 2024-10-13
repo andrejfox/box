@@ -1,7 +1,11 @@
+### **Alternirajoče zaporedje**
+$a_n = (-2)^n$
+$-2, 4, -8, 16, -32,\dots$
+$-, +, -, +, -,\dots$
+
 ### Naraščanje / Padanje
 $n \in \mathbb{N}$
 $a_{n + 1} - a_n = X$
-
 $X \geq 0$ -> Naraščajoče
 $X \leq 0$ -> Padajoče
 $X > 0$ -> Strogo naraščajoče
