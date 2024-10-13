@@ -27,4 +27,5 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 
 [[Zapisovanje primerov uporabe (UML)]]
 [[UML]]
+[[UML - razred]]
 
