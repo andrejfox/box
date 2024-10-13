@@ -5,4 +5,6 @@
 - [ ] Priporočilno pismo (Numerično, leto leto, število učencev starost, udeleživ se je,... )
 - [x] dej sari tablete
 - [ ] opravičili za danes in matematiko
-- [ ] DN matematiko
+- [x] DN matematiko
+- [ ] vprašaj Vintar (k/15/14./č))
+- [ ] naredi celo k/21/33./*
