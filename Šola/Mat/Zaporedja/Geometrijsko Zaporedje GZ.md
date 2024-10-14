@@ -12,7 +12,6 @@ $\dots$
 $a_n = a_1 * q^{n - 1}$ -> Splošni člen GZ
 
 $q < 0$ -> alternirajoče zaporedje
-$q > 0$ -> 
 
 Geometrijska sredina števil $a, b > 0$: $\sqrt{a * b}$ <-(obstaja samo za pozitivna števila)
 
