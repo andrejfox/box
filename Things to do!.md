@@ -8,3 +8,4 @@
 - [x] DN matematiko
 - [ ] vprašaj Vintar (k/15/14./č))
 - [ ] naredi celo k/21/33./*
+- [ ] mat dn k/140/b
