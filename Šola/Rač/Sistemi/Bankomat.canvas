@@ -76,58 +76,6 @@
       "height": 50
     },
     {
-      "id": "fad6e1808cfadfc3",
-      "type": "text",
-      "text": "prijave",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -838,
-      "y": -5,
-      "width": 145,
-      "height": 50
-    },
-    {
-      "id": "3b05db982f342064",
-      "type": "text",
-      "text": "stanje",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1115,
-      "y": -200,
-      "width": 145,
-      "height": 50
-    },
-    {
-      "id": "4c82b0e61f9b29a8",
-      "type": "text",
-      "text": "prelog",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1115,
-      "y": -140,
-      "width": 145,
-      "height": 50
-    },
-    {
-      "id": "49bd53fb57f2d1c6",
-      "type": "text",
-      "text": "prenos",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1115,
-      "y": -80,
-      "width": 145,
-      "height": 50
-    },
-    {
       "id": "31541fa882dd0016",
       "type": "text",
       "text": "dopolnitev zaloge",
@@ -167,6 +115,19 @@
       "height": 50
     },
     {
+      "id": "fad6e1808cfadfc3",
+      "type": "text",
+      "text": "prijave",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -838,
+      "y": -5,
+      "width": 145,
+      "height": 50
+    },
+    {
       "id": "5d70cbdbce7012b3",
       "type": "text",
       "text": "popravilo zahtevnih napak",
@@ -177,6 +138,45 @@
       "x": -1054,
       "y": 240,
       "width": 288,
+      "height": 50
+    },
+    {
+      "id": "3b05db982f342064",
+      "type": "text",
+      "text": "stanje",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -200,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "4c82b0e61f9b29a8",
+      "type": "text",
+      "text": "prelog",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -140,
+      "width": 145,
+      "height": 50
+    },
+    {
+      "id": "49bd53fb57f2d1c6",
+      "type": "text",
+      "text": "prenos",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1115,
+      "y": -80,
+      "width": 145,
       "height": 50
     },
     {
