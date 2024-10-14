@@ -76,45 +76,6 @@
       "height": 50
     },
     {
-      "id": "31541fa882dd0016",
-      "type": "text",
-      "text": "dopolnitev zaloge",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1315,
-      "y": 290,
-      "width": 201,
-      "height": 50
-    },
-    {
-      "id": "d839a0cdaefa6012",
-      "type": "text",
-      "text": "popravilo napak",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1315,
-      "y": 120,
-      "width": 195,
-      "height": 50
-    },
-    {
-      "id": "960e9f1219ee5ee6",
-      "type": "text",
-      "text": "napake pri prijavi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -910,
-      "y": 145,
-      "width": 200,
-      "height": 50
-    },
-    {
       "id": "fad6e1808cfadfc3",
       "type": "text",
       "text": "prijave",
@@ -125,19 +86,6 @@
       "x": -838,
       "y": -5,
       "width": 145,
-      "height": 50
-    },
-    {
-      "id": "5d70cbdbce7012b3",
-      "type": "text",
-      "text": "popravilo zahtevnih napak",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1054,
-      "y": 240,
-      "width": 288,
       "height": 50
     },
     {
@@ -177,6 +125,58 @@
       "x": -1115,
       "y": -80,
       "width": 145,
+      "height": 50
+    },
+    {
+      "id": "31541fa882dd0016",
+      "type": "text",
+      "text": "dopolnitev zaloge",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 290,
+      "width": 201,
+      "height": 50
+    },
+    {
+      "id": "d839a0cdaefa6012",
+      "type": "text",
+      "text": "popravilo napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 120,
+      "width": 195,
+      "height": 50
+    },
+    {
+      "id": "960e9f1219ee5ee6",
+      "type": "text",
+      "text": "napake pri prijavi",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -910,
+      "y": 145,
+      "width": 200,
+      "height": 50
+    },
+    {
+      "id": "5d70cbdbce7012b3",
+      "type": "text",
+      "text": "popravilo zahtevnih napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1054,
+      "y": 240,
+      "width": 288,
       "height": 50
     },
     {

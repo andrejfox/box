@@ -13,6 +13,7 @@ obnašanje:
 > +public
 > \#protected
 > -private
+> \\izpeljana vrednost
 
 
 **Povezave** zagotavljajo komunikacijsko pot med različnimi objekti
@@ -38,5 +39,3 @@ Modelirane s črtami, pri čemer različne vrste črt predstavljajo različne vr
 | nič ali eden                 | 0..1    |
 | določeno območje             | 2..4    |
 | Več, različnih območji       | 2, 4..6 |
-n = *
-
