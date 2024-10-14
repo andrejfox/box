@@ -31,3 +31,10 @@ Izven so štirje členi:
 $|1 - a_n| < \frac{1}{10}$
 $1 - \frac{n - 2}{n} < \frac{1}{10}$
 $-\frac{n - 2}{n} < -\frac{9}{10}$
+
+$\lim_{n \to \infty} (\sqrt{n+1}-\sqrt{n-1}) =$
+$=\lim_{n \to \infty} \frac{n+1-n+1}{\sqrt{n+1}\sqrt{n-1}}=$
+$= \lim_{n \to \infty}\frac{2}{n\sqrt{\frac{1}{n}+\frac{1}{2n}}}+n\sqrt{1+\frac{1}{n}} = 0$
+
+$\frac{3}{2}-\frac{9}{8}+\frac{27}{32}-\dots=\frac{a_1}{1-k}=\frac{\frac{3}{2}}{1+\frac{3}{4}}=\frac{\frac{3}{2}}{\frac{7}{4}}=\frac{12}{14}=\frac{6}{7}$
+$k = -\frac{3}{4}$
