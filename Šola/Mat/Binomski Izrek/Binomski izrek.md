@@ -5,6 +5,7 @@ $(a+b)^3=1a^3+3a^2b+3ab^2+1b^3$
 $(a+b)^4=1a^4+4a^3b+6a^2b^2+4ab^3+1b^4$
 ---
 $(a+b)^n=\binom{n}{0}a^n+\binom{n}{1}a^{n-1}b+\binom{n}{2}a^{n-2}b^2+\dots + \binom{n}{n-1}ab^{n-1}+\binom{n}{n}b^n$
+
 ---
 Paskalov trikotnik :
 $$\binom{1}{0}$$
