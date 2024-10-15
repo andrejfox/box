@@ -1,3 +1,5 @@
+DZ/6-39
 Besedotvorje
+Besedoslovje
 Glasoslovje
- 1 - 2 letnik
+pravopis (praktično) (velike črke,...)

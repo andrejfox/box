@@ -1,4 +1,4 @@
-[[Matura iz Slovenščine]]
-[[Matura iz Matematike]]
-[[Matura iz Angleščine]]
+[[Matura iz slovenščine]]
+[[Matura iz matematike]]
+[[Matura iz angleščine]]
 [[Matura iz informatike]]
