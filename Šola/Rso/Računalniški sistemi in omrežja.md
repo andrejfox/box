@@ -3,6 +3,7 @@
 2. 7.3.2025
 3. 17.4.2025
 
+[[Izjemni dogodki]]
 ## [[Dinamične strukture]]
 - [[Rekurzija]]
 - [[Rekurzivne strukture]]
