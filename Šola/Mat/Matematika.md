@@ -1,3 +1,5 @@
+[[Spraševanja]]
+[[Definicije]]
 ### [[Zaporedja]]
 - [[Lastnosti zaporedij]]
 	- [[Aritmetična Zaporedja AZ]]
@@ -8,3 +10,4 @@
 
 [[Kombinatorika]]
 
+[[Binomski izrek]]

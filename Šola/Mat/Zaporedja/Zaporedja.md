@@ -30,6 +30,8 @@ Graf zaporedja je množica urejenih parov (1, $a_1$), (2, $a_2$),...
 ![[zaporedja_graf.png]]
 
 ---
+[[Šola/Mat/Zaporedja/Vaje|Vaje]]
+
 $a_n = 3q^n$
 $a_1 = 1$
 $a_{10} = ?$
