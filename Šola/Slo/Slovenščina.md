@@ -2,3 +2,4 @@
 
 [[Etimološki slovar]]
 [[Besedotvorje]]
+[[Beseda]]

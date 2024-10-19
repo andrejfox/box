@@ -1,3 +1,4 @@
+[[Domače naloge]]
 ### [Učbenik](https://lusy.fri.uni-lj.si/ucbenik/book/index.html)
 80% - pisni del (zunanji del) (dve poli)
 	- 1. pola - enostavne naloge
@@ -57,7 +58,7 @@ predpomnilnik
 	4. predstavitev
 
 ---
-[[Vaje]]
+[[Šola/Mature/Inf/Vaje/Vaje]]
 
 **test**
 Excel

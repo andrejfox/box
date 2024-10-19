@@ -1,5 +1,9 @@
 #### [[Testi]]
 
+PDF-ji:
+[[RAC_IS.pdf]]
+[[RAC_UML 1 Diagrami primerov uporabe.pdf]]
+[[RAC_UML 2. Razredni diagrami.pdf]]
 ## [[Podatek]] / [[Informacija]]
 
 ## [[Sistem]]
@@ -25,3 +29,5 @@
 ## [[Odločanje]]
 [[Faze odločitvenega procesa]]
 [[Odločitveni sistemi (DEXi)]]
+
+[[UML - activity diagrami]]
