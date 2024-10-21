@@ -31,3 +31,5 @@ PDF-ji:
 [[Odločitveni sistemi (DEXi)]]
 
 [[UML - activity diagrami]]
+
+# [[Podatkovne baze]]
