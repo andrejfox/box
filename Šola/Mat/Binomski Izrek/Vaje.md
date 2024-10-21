@@ -36,5 +36,3 @@ največ 3 od njih bo povabila na kolesarski izlet lahko tudi 0.
 $1 + 12 + \binom{12}{2} + \binom{12}{3} = 299$
 Najmanj 9 jih povabi na zabavo.
 $\binom{12}{9} + \binom{12}{10} + \binom{12}{11} + \binom{12}{12} = 299$
-
-nigger
