@@ -51,16 +51,14 @@ Lambda:
 ```java
 class Test {  
     public static void main(String[] args) {  
-        Thread thr = new Thread(new Runnable() {  
+        new Thread(new Runnable() {  
             @Override  
             public void run() {  
                 for (int i = 0; i < 999999999; i++) {  
                     System.out.println("A");  
                 }  
             }  
-        });  
-          
-        thr.start();  
+        }).start();  
     }  
 }
 
@@ -72,6 +70,24 @@ class Test {
                 System.out.println("A");  
             }  
         }).start();  
+    }  
+}
+```
+
+```java
+class Test {  
+    public static void main(String[] args) {  
+        MT tt = new MT();  
+        tt.start();  
+    }  
+}
+
+class MT extends Thread implements Runnable {  
+    public void run() {  
+        for (int i = 0; i < 100; i++) {  
+            System.out.print("A ");  
+            System.out.println();  
+        }  
     }  
 }
 ```
