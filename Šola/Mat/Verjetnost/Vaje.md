@@ -85,3 +85,66 @@ $P(B) = \frac{36}{4807} \quad m=\binom{10}{5}$
 $P(C)=\frac{13 * \binom{10}{4}}{33649}$
 $P(D)=\frac{13*\binom{10}{4}+\binom{10}{5}}{33649}$
 $P(E) = \frac{\binom{13}{5}+ 10*\binom{13}{4} + \binom{10}{2}\binom{13}{3}}{33649}=\frac{1937}{3059}$
+
+$\Omega$/250
+Nezdružljiva
+$P(A)=\frac{3}{5}$
+$P(B)=\frac{1}{6}$
+$P(A') = \frac{2}{5}$
+$P(B')=\frac{5}{6}$
+$P(A \cup B) = \frac{3}{5} + \frac{1}{6} = \frac{23}{30}$
+$P(A \cap B)=0$ (nezdružljiva)
+
+$\Omega$/251
+Elementarni (nezdružljivi)
+$P(E_1)=P(E_2)=0,15$
+$P(E_3)=P(E_4)=0,05$
+$P(A)=P(E_4 \cup E_5)=0,05 + 0,6 = 0,65$
+$P(E_5)=0,06$
+$P(B)=P(E_2 \cap E_3 \cap E_4)=0,2$
+$P(C)=P(E_1')=1-0,15 = 0,85$
+
+
+4 razredi
+30 testov
+8 zahtevnih
+12 srednje
+10 ez
+premeša izmere 4
+a) noben zahtevnega
+$n = \binom{30}{4}$
+$m=\binom{22}{4}$
+$P(A)=\frac{m}{n}=\frac{7315}{27405}=0,267$
+b) en dobi zahtevn test
+$n = \binom{30}{4}$
+$m=\binom{22}{3} * 8 = 1232$
+$P(B)=\frac{12320}{27405}=\frac{352}{783}$
+c) uporabljene so vse težavnosti testov.
+$m=\binom{8}{2} * \binom{12}{1} * \binom{10}{1} + \binom{8}{1} * \binom{12}{2} * \binom{10}{1} + \binom{8}{1} * \binom{12}{1} * \binom{10}{2} = 12960$
+$P(C)=\frac{96}{203}$
+
+$\Omega$/210
+$n < 100$
+$A = 92$ -> $\frac{1}{99}$
+$B = 100$ -> 0
+$C=sodo$ -> ~50
+$D = sodo \cap >91$ -> 0,2
+
+$\Omega$/192
+52 kart
+$P(A)=\frac{2}{52}$
+$P(B)=\frac{1}{2}$
+$P(C)=\frac{8}{52}$
+$P(D)=0$
+$P(E)=1$
+
+3 kocke
+A -> 3 različne
+$P(A)=\frac{6*5*4}{6^3}=\frac{5}{9}$
+B -> 2 šest + 1 štiri
+$P(B)=\frac{3}{6^3}=\frac{1}{72}$
+C -> vsota 5 -> 1, 1, 3  - 3x | 1, 2, 2 - 3x
+$P(C)=\frac{1}{36}$
+Č -> vsota 3 ali 14 -> 1, 1, 1 + 6, 6, 2 + 6, 5, 3 + 6, 4, 4 + 5, 5, 4
+$P(Č)=\frac{1 + 3 + 6 + 3 + 3}{6^3} = \frac{2}{27}$
+
