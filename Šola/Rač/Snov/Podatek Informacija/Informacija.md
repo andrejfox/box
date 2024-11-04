@@ -17,6 +17,8 @@ Mib: $2^{20} = 1048576$
 Gib: $2^{30} = 1073741824$
 ...
 
+**Informacijska Arhitektura** - načrt informacijskih potreb uporabnikov.
+
 ***Vrednost***
 - Časovna odvisnost: (s časom pada vrednost)
 - prediktivna
@@ -31,7 +33,6 @@ Gib: $2^{30} = 1073741824$
 - Preverljivost - Preverljivo informacijo uporabniki lahko preverijo in se prepričajo o njeni točnosti.
 - Dostopnost - Informacija lahko pridobijo tisti uporabniki, ki jo potrebujejo.
 - Varnost - Informacija je zaščitena pred nepooblaščenimi uporabniki.
-
 
 **Hierarhija:**
 1. Meta zanje - Opis znanja
