@@ -175,4 +175,23 @@ $P(B/A) = \frac{P(A\cap B)}{P(A)} = \frac{\frac{1}{18}}{\frac{4}{9}} = \frac{9}{
 V nekem razredu imajo učenci negativne ocene iz matematike in angleščine 20% iz matematike, 10% iz angleščine in 5% iz obeh predmetov. Izberemo enega učenca.
 Izračinaj verjetnost:
 a) da ima učenec vsaj eno negativno oceno
+$P(A)=25\%$
 b) ima negativno oceno iz matematike, če ima negativno iz angleščine
+$P(B)=50\%$
+---
+10x vržemo Kovanec
+A grba pade natanko 2x
+$P(A)=\binom{10}{2} * (\frac{1}{2})^2 * (\frac{1}{2})^8= \frac{45}{1024}$
+B grb ne pade več kot 2x
+0x, 1x, 2x
+$P(B)= (\frac{1}{2})^{10}+\binom{10}{1}*(\frac{1}{2})^{10}+\frac{45}{1024}=\frac{7}{128}$
+C grb pade vsaj dvakrat
+$P(C)=1-P(B)=0,989$
+
+Napravo sestavlja 100 enakih delov, ki se neodvisno drug od drugega kvarijo z verjetnostjo 0,01. Kolikšna je verjetnost da naprava deluje, če morajo biti za njeno delovanje brezhibni vsi deli.
+$P(A)=0,99^{100}$
+B kolikšna je verjetnost da se pokvarijo natanko 3-je deli
+$P(B)=\binom{100}{3}*0,01^3*0,99^97=0,061$
+C 10 delov pokvarjenih
+$P(C)=\binom{100}{10}*0,01^{10}*0,99^{90}=7*10^{-8}$
+
