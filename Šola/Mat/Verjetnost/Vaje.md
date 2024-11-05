@@ -147,4 +147,32 @@ C -> vsota 5 -> 1, 1, 3  - 3x | 1, 2, 2 - 3x
 $P(C)=\frac{1}{36}$
 Č -> vsota 3 ali 14 -> 1, 1, 1 + 6, 6, 2 + 6, 5, 3 + 6, 4, 4 + 5, 5, 4
 $P(Č)=\frac{1 + 3 + 6 + 3 + 3}{6^3} = \frac{2}{27}$
+---
+4 črne 
+6 belih
+2x
+a) prvo vrnemo v posodo - neodvisna dogodka
+A: 1. bela 2. črna
+B: 2. črna
+$P(A\cap B)=\frac{6}{10} * \frac{4}{10} = \frac{6}{25} = 0,24$
+b) če drugo kroglico izberemo ne da vrnemo prve - odvisna dogodka
+A: 1. bela 2. črna
+B: 2. črna
+$P(A\cap B)=\frac{6}{10} * \frac{4}{9} = \frac{12}{45} = 0,267$
+$P(B/A)$ - verjetnost da se je zgodil dogodek $A$ pri pogoju $B$
+c) iz posode 3x po vrsti izvlečemo brez da bi dajal nazaj
+1. bela, 2. črna, 3. bela
+$P(A)= \frac{6}{10} * \frac{4}{9} * \frac{5}{8} = \frac{1}{6}$
+d) vse tri kroglice so iste barve (ne vračamo)
+$P(B)=\frac{6}{10} * \frac{5}{9} * \frac{4}{8} + \frac{4}{10} * \frac{3}{9} * \frac{3}{8} = \frac{1}{5}$
 
+Sočasno vržemo 2 pošteni igralni kocki. Kolikšna je verjetnost da je vsota pik 7, če vemo da so na vsaki kocki padle vsaj 3 pike.
+A = vsaj 3 pike: $P(A) = \frac{4}{6} * \frac{4}{6}=\frac{4}{9}$
+B = vsota 7
+$P(A\cap B)=\frac{2}{36} = \frac{1}{18}$
+$P(B/A) = \frac{P(A\cap B)}{P(A)} = \frac{\frac{1}{18}}{\frac{4}{9}} = \frac{9}{4 * 18} = \frac{1}{8}$
+
+V nekem razredu imajo učenci negativne ocene iz matematike in angleščine 20% iz matematike, 10% iz angleščine in 5% iz obeh predmetov. Izberemo enega učenca.
+Izračinaj verjetnost:
+a) da ima učenec vsaj eno negativno oceno
+b) ima negativno oceno iz matematike, če ima negativno iz angleščine
