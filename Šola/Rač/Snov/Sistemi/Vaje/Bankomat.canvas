@@ -11,6 +11,84 @@
       "label": "Bankomat"
     },
     {
+      "id": "31541fa882dd0016",
+      "type": "text",
+      "text": "dopolnitev zaloge",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 290,
+      "width": 201,
+      "height": 50
+    },
+    {
+      "id": "d839a0cdaefa6012",
+      "type": "text",
+      "text": "popravilo napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1315,
+      "y": 120,
+      "width": 195,
+      "height": 50
+    },
+    {
+      "id": "960e9f1219ee5ee6",
+      "type": "text",
+      "text": "napake pri prijavi",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -910,
+      "y": 145,
+      "width": 200,
+      "height": 50
+    },
+    {
+      "id": "5d70cbdbce7012b3",
+      "type": "text",
+      "text": "popravilo zahtevnih napak",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -1054,
+      "y": 240,
+      "width": 288,
+      "height": 50
+    },
+    {
+      "id": "1f4754c1d39194f1",
+      "type": "text",
+      "text": "bančni informacijski sistem",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -621,
+      "y": -80,
+      "width": 292,
+      "height": 50
+    },
+    {
+      "id": "09da6422739e84b5",
+      "type": "text",
+      "text": "proizvajalec",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "parallelogram"
+      },
+      "x": -600,
+      "y": 45,
+      "width": 180,
+      "height": 50
+    },
+    {
       "id": "82bb8f42402ab357",
       "type": "text",
       "text": "popravilo enostavnih napak",
@@ -125,84 +203,6 @@
       "x": -1115,
       "y": -80,
       "width": 145,
-      "height": 50
-    },
-    {
-      "id": "31541fa882dd0016",
-      "type": "text",
-      "text": "dopolnitev zaloge",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1315,
-      "y": 290,
-      "width": 201,
-      "height": 50
-    },
-    {
-      "id": "d839a0cdaefa6012",
-      "type": "text",
-      "text": "popravilo napak",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1315,
-      "y": 120,
-      "width": 195,
-      "height": 50
-    },
-    {
-      "id": "960e9f1219ee5ee6",
-      "type": "text",
-      "text": "napake pri prijavi",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -910,
-      "y": 145,
-      "width": 200,
-      "height": 50
-    },
-    {
-      "id": "5d70cbdbce7012b3",
-      "type": "text",
-      "text": "popravilo zahtevnih napak",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -1054,
-      "y": 240,
-      "width": 288,
-      "height": 50
-    },
-    {
-      "id": "1f4754c1d39194f1",
-      "type": "text",
-      "text": "bančni informacijski sistem",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -621,
-      "y": -80,
-      "width": 292,
-      "height": 50
-    },
-    {
-      "id": "09da6422739e84b5",
-      "type": "text",
-      "text": "proizvajalec",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -600,
-      "y": 45,
-      "width": 180,
       "height": 50
     }
   ],

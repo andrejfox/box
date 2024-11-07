@@ -11,3 +11,10 @@ TIS posreduje informacije uporabnikom in drugim IS organizacije.
 - odzivni časi so pomembni.
 - veliko število uporabnikov.
 - zahteva po visoki zanesljivosti sistema.
+
+---
+Navedite primer in opišite delovanje nekega transakcijskega sistema.
+Spletna banka - glavne funkcionalnosti:
+- pogled v Stanje
+- izvedba nakazil 
+- plačilo e računov 

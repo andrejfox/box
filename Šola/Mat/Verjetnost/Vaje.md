@@ -195,3 +195,46 @@ $P(B)=\binom{100}{3}*0,01^3*0,99^97=0,061$
 C 10 delov pokvarjenih
 $P(C)=\binom{100}{10}*0,01^{10}*0,99^{90}=7*10^{-8}$
 
+---
+višji nivo:
+kovence
+$P(G)=0,4$
+$P(C)=0,6$
+6x vržemo
+5x se pokaže grb 
+$P(A)=\binom{6}{5}*0,4^5*0,6=0,0369$
+$P(B)=1 - \binom{6}{0} * 0,4^0 * 0,6^6 - \binom{6}{1} * 0,4^1 * 0,6^5=0,7667$
+$P(R_1)=0,6*0,4=0,24$
+$P(P_1)=0,4$
+$P(P_2)=0,6*0,6*0,4=0,144$
+$P(P_3)=0,6^4*0,4=0,0518$
+$0,4+0,6^2+0,4+0,6^4+0,4+\dots$
+$S_n=\frac{a_1}{1-q}$
+$S_n=\frac{0,4}{1-0,6^2}=0,625$
+
+104.(matura)
+40 tipk
+25 velikih črk
+10 števk 
+5 simpolov
+"SIMON"
+$P(A)=\frac{75}{5}$
+$P(B)=\frac{1}{40^5}$
+$P(C)=\frac{5!}{40^5}$
+3znaki, 3 enake števke, najprej soda števka
+$P(D)=P(3enake/1.soda)=\frac{P(3enake \cap sode)}{P(1.soda)}=\frac{\frac{5}{40^3}}{\frac{5}{40}}=\frac{1}{40^2}$
+$P(1.soda)=\frac{5}{40}$
+$P(3 enaki \cap 1.soda) = \frac{5}{40}*\frac{1}{40}\frac{1}{40}$
+12 znakov - samo znaki slovenske abecede
+$P(E)=\binom{12}{10}*(\frac{25}{40})^{10}*(\frac{15}{40})^2$
+
+84.(matura)
+42 kamnov
+18 smar
+6 rub 
+$P(A)=\frac{18}{24}*\frac{17}{23}*\frac{16}{22}=0,4$
+r, s, r
+$P(B)= \frac{6}{24}*\frac{18}{23}*\frac{5}{22}=0,044$
+$P(2smar/vsaj 1 rubin)=\frac{P(2smar\cap 1rubin)}{P(vsaj 1 rubin)}=0,76$
+$P(2smar \cap 1 rub)=\frac{\binom{18}{2}\binom{6}{1}}{\binom{24}{3}} = 0,4536$
+$P(vsaj 1 rubin)=1-\frac{\binom{18}{3}}{\binom{24}{3}}=0,5968$
