@@ -4,6 +4,7 @@
 
 [[Aritmetična Zaporedja AZ]]
 [[Geometrijsko Zaporedje GZ]]
+[[Popolna Indukcija]]
 
 [[Limita zaporedja]]
  

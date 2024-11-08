@@ -6,5 +6,6 @@
 [[Glasnost]]
 [[Stoječe valovanje v resonatorju]]
 [[Machov stožec]]
+[[Polarizacija]]
 [[Polarizacija pri odboju svetlobe]]
 [[Popolni odboj]]

@@ -191,9 +191,45 @@ $P(C)=1-P(B)=0,989$
 Napravo sestavlja 100 enakih delov, ki se neodvisno drug od drugega kvarijo z verjetnostjo 0,01. Kolikšna je verjetnost da naprava deluje, če morajo biti za njeno delovanje brezhibni vsi deli.
 $P(A)=0,99^{100}$
 B kolikšna je verjetnost da se pokvarijo natanko 3-je deli
-$P(B)=\binom{100}{3}*0,01^3*0,99^97=0,061$
+$P(B)=\binom{100}{3}*0,01^3*0,99^{97}=0,061$
 C 10 delov pokvarjenih
 $P(C)=\binom{100}{10}*0,01^{10}*0,99^{90}=7*10^{-8}$
+
+vseh je 36
+10 /
+14 tek
+18 smu
+3 oboje
+verjetnost, da teče če smuča
+$P(tek/smuča)=\frac{3}{18}=\frac{1}{6}$
+$P(smuča/ne teče)=\frac{15}{25}$
+$P(ne teče/nesmuča)=\frac{10}{21}$
+$P(ne smuča/ne teče)=\frac{10}{25}$
+
+6 modrih
+4 bele
+izberemo 2 naenkrat
+A -> vsaj 1 bela
+B -> največ ena bela
+$P(B/A)=\frac{P(A\cap B)}{P(A)}=\frac{8}{13}$
+$P(A)=\frac{\binom{6}{2}+\binom{6}{1}*\binom{4}{1}}{\binom{10}{2}}=\frac{13}{15}$
+$P(A\cap B)=\frac{\binom{6}{1}*\binom{4}{1}}{\binom{10}{2}}=\frac{8}{15}$
+
+Matej in Mojca neodvisno drug od drugega rešujeta nalogo iz verjetnostnega računa.
+Verjetnost, da Matej reši nalogo je 0,4 in da jo reši mojca je 0,8.
+Nalogo rešita oba 
+$P(A)=0,4*0,8=0,32$
+$P(B)=0,4*0,8+0,4*0,2+0,6*0,8=0,88 = 1 - 0,6*0,2$
+nologo reši Matej, pri pogoju, da je bila naloga rešena.
+$P(M/B)=\frac{0,4}{0,88}$
+
+$\Omega$/378.
+10x kocka
+1 pika pare natanko 1x
+$P(A)=\binom{10}{1}*(\frac{1}{6})^1*(\frac{5}{6})^9=0,323$
+9x ali 10x Sodo
+$P(B)=\binom{10}{9}*(\frac{1}{2})^{10}+1*(\frac{1}{3})$
+
 
 ---
 višji nivo:

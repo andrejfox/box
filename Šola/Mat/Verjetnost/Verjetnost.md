@@ -1,5 +1,11 @@
 **Verjetnost** je področje matematike, ki se ukvarja s preučevanjem naključnih dogodkov.
 
+[[Šola/Mat/Verjetnost/Vaje|Vaje]]
+[[Vzorčni prostor dogodkov]]
+[[Računanje verjetnosti]]
+[[Verjetnost Produkta in Pogojna Verjetnost]]
+[[Zaporedje poskusov]]
+
 **Poskus** je aktivnost, ki jo izvedemo vedno na enak način in pri enakih pogojih. 
 
 **Dogodek** je pojav, ki se pri danem poskusu lahko zgodi ali pa ne. 

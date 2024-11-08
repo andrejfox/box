@@ -4,6 +4,7 @@
 3. 17.4.2025
 
 [[Izjemni dogodki]]
+[[Async java]]
 ## [[Dinamične strukture]]
 - [[Rekurzija]]
 - [[Rekurzivne strukture]]

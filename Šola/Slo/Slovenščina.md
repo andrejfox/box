@@ -1,9 +1,8 @@
 [DZ](https://issuu.com/rokus-klett/docs/9789612719616)
 
-[[Etimološki slovar]]
+[[Osnove]]
 [[Besedotvorje]]
-[[Beseda]]
-
+[[Književnost]]
 
 F.Lipuš: Zmote dijaka Tjaža 21.1.2025
 D.Smole: Antigona 17.2.2025

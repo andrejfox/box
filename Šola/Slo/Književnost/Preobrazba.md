@@ -1,7 +1,7 @@
-**Franc Kafka (1883.1924): Preobrazba**
+**Franc Kafka (1883-1924): Preobrazba**
 Kafka je češki avtor. Žid, živel v Pragi. Je umetnik njegov oče pa želi več od njega (trgovski potnik).
 Gregor Samsa ima simbolni pomen, sam tudi v češčini pomeni osamljen.
-Kafka <-> Sam - alten ego
+Kafka <-> Sam - alter ego
 Samsa se zbudi in ugotovi, da je "brezoblični stvor", ima trd oklep (GROTESKA). Preobrazi se v nekaj neuporabnega (ne more se obrniti z hrbta). To niso sanje, to je zares. "Med štirimi znanimi stenami" - ne hodi veliko ven. Premišljanje o kakšnem stanju je zdaj.
 Gregor zelo gara, ker njegovi starši dolgujejo njegovemu šefu denar, delati bo moral še 5/6 let. Šef je vzvišen, ima slugo, ki mu poroča o vsem, ima slab odnos z Gregorjem. Dogajanje je pomaknjeno v človekovo notranjost. **Brezosebkovi stavki**! Odzivi družinskih članov, zasliši se zaskrbljen glas matere, on odgovori z čričkanjem, oče nekoliko nestrpno z globjim glasom vpraša kaj je z njim, sestra pa najprej izkaže skrb, nato pa ga prosi da odpre(zašepeta "odpri, rotim te"). Čez večino novele dežuje na koncu je pa megla.
 

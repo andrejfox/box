@@ -1,8 +1,9 @@
-**Author:** Kazuo Ishiguro
-**Type of Work:** Novel
-**Genre:** Dystopia, Science
-**Time and place written:** England, between 1990 and the early 2000s
+**Author:** [[Kazuo Ishiguro]]
+**Type of Work:** Novel (6.)
+**Genre:** Dystopian Science fiction novel ([[Dystopian fiction]])
 **Date of first publication:** 2005
+**Themes:** humanity, love, coming of age, mortality, ethics, friendship
+**Time and place written:** England (parallel world), between 1990 and the early 2000s
 **Narrator:** Kathy H. <- **First person narrator**
 **Setting(place):** Hailshum, the Cottages, Kingsfield, Dover, Norfolk
 **Setting(time):** early 1970s
@@ -22,6 +23,11 @@ The song (never let me go)
 **Setting:** Heilshum, the cottages (rundown farm where the clones mature and meet others), Norfolk, Kingsfield, Dover
 
 **Heilshum** looks like a type of boarding school (internat), in reality its a institution to grow clones.
+
+---
+Part 1 - Hailsham
+Part 2 - the Cottages
+Part 3 - Donations
 
 ---
 # Questions
