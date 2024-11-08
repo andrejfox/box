@@ -10,3 +10,5 @@
 - [[Rekurzivne strukture]]
 - [[Razprševanje]]
 - [[Izjemni dogodki]]
+
+**Ecka Pecka pošto pela, Ecka Pecka pošta se prevrne, Ecka Pecka.**
