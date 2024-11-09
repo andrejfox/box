@@ -4,3 +4,7 @@
 
 12.10.2024 | JUTRI
 [[14.10.2024]]
+
+26.10.2024 | ****
+Preberi in prevedi neznane besede u/127/2./a).
+razporedi po sklonih in daj v množino.
