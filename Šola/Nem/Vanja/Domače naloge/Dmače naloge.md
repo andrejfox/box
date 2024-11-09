@@ -8,3 +8,6 @@
 26.10.2024 | ****
 Preberi in prevedi neznane besede u/127/2./a).
 razporedi po sklonih in daj v množino.
+
+9.10.2024 | 10.10. 19.00
+Oblikuj povedi z novimi besedami.
