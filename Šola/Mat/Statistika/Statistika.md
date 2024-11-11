@@ -4,6 +4,7 @@ Uporabljamo jo pri analizi podatkov in tudi pri reševanju problemov (matematič
 [[Grafično prikazovanje podatkov]]
 [[Šola/Mat/Statistika/Srednje vrednosti|Srednje vrednosti]]
 [[Razpršenost podatkov]]
+[[Gaussova ali normalna Krivulja]]
 
 **OSNOVNI POJMI STATISTIKE:**
 **Populacija** je množica, ki jo statistično proučujemo.

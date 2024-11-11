@@ -1,5 +1,5 @@
 Born in Japan (Nagasaki)
-When he was a yung boy (~6y) his family moved to England, where he was also educated.
+When he was a young boy (~6y) his family moved to England, where he was also educated.
 He worked for the royal family in Scotland.
 He has a degree in englisch and philosophy.
 He worked as a social worker.

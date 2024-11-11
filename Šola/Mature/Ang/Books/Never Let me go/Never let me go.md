@@ -48,3 +48,6 @@ Mrs. Lucy and Mrs. Emelly have difrent views on the subject, Lucy belives that t
 
 What does the galary pruve?
 Its an atempt to change the publics preceptions on the donerin, to show that they have souls and emotions.
+
+---
+![[Pasted image 20241111123026.png]]![[Pasted image 20241111123039.png]]
