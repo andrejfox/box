@@ -274,3 +274,13 @@ $P(B)= \frac{6}{24}*\frac{18}{23}*\frac{5}{22}=0,044$
 $P(2smar/vsaj 1 rubin)=\frac{P(2smar\cap 1rubin)}{P(vsaj 1 rubin)}=0,76$
 $P(2smar \cap 1 rub)=\frac{\binom{18}{2}\binom{6}{1}}{\binom{24}{3}} = 0,4536$
 $P(vsaj 1 rubin)=1-\frac{\binom{18}{3}}{\binom{24}{3}}=0,5968$
+
+---
+
+$\Omega$/211
+Med vsemi 3 mestnimi števili naključno izberemo 1
+A - deljivo s 3 <- $102=3*34$  $999=333*3$
+$P(A)=\frac{300}{900}=\frac{1}{3}$
+$P(B)=\frac{1}{5}$
+$P(C)=\frac{1}{15}$
+$P(D)=P(P(A)\cup P(B))=P(A)+P(B)-P(C)=\frac{1}{5}+\frac{1}{3}-\frac{1}{15}=\frac{7}{15}$
