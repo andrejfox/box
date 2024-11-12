@@ -5,6 +5,7 @@
 
 [[Izjemni dogodki]]
 [[Async java]]
+[[Comparable]]
 ## [[Dinamične strukture]]
 - [[Rekurzija]]
 - [[Rekurzivne strukture]]
