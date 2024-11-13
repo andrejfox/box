@@ -5,6 +5,8 @@
 3A - Pisni sestavek (OR: 120-150 | VR: 150-180)
 3B - Daljši pisni sestavek (OR) ali Pisni sestavek na temo iz književnosti (VR)
 
+[[Poems]]
+
 Knjiga:
 [[Never let me go]] - Kazuo Ishihuro (5. oktober - kratek test)
 About A Boy - Nick Hornby (14. december - kratek test)
