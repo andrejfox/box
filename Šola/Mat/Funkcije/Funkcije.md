@@ -14,3 +14,4 @@ Racionalne - $f(x)=\frac{p(x)}{q(x)}$
 Kotne - $f(x)=\sin x$, $f(x)=\cos x$, $f(x)=\tan x$, $f(x) = \cot x$
 Krožne - $f(x)=\arcsin x$, $f(x)=\arccos x$, $f(x)=\arctan x$, $f(x)=arccot \ x$
 [[Sestavljena funkcija]] (kompozitum)
+[[Inverzna funkcija]]
