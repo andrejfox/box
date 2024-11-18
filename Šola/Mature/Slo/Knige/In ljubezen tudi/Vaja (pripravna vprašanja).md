@@ -14,10 +14,10 @@
 10. V očeh vidi laž, v Sonji vidi zvesto Nemko.
 11. Da se ne uprejo.
 12. Ne vem kako bi si to pojavo razlagal. Sklepam, da je bil to del njegove burne domišljije, saj ne verjamem, da bi lahko nekdo tako neopazno plezal na okno in potem tudi izginil brez sledi.
-13. Tine je gostom sumljiv, ker pri sebi ni imel vozovnice, bil je dobro oblečen, kar je kazalo na to, da se je mogoče potikal po bližnjem pohorju. Ker ni imel vozovnice, Kers so imeli ta pravico in uživali so v pretepajanju.
+13. Tinetov kostum je sumljiv, ker pri sebi ni imel vozovnice, bil je dobro oblečen, kar je kazalo na to, da se je mogoče potikal po bližnjem pohorju. Ker ni imel vozovnice, Kers so imeli ta pravico in uživali so v pretepajanju.
 14. Ludwig mu to pomeni kot intro uže shoraji tudi, go njimean opravim stem ko izve, da so zaplinj in njega prijatelja.
 15. Meni daje Sonja državna državljana, saj govori tekočo nemščino. Meni da bodo Slovenci le še bodo naučili nekaj kulture in jezika bil v eni generaciji boljši Nemci kot ostali.
-16. Globocnik je bil ofizir SS policije, delal je na poljskem, bil je eden imnel vadnih pri pomoru bili lovoro judi.
+16. Globocnik je bil ofizir SS policije, delal je na poljskem, bil je eden vodilnih za poboje miljonov ljudi.
 17. Ludwig menim, da je Ludwig je imel varno veliko šlilo z ženskami zato je pogrebal priložnost, ko je jim je. Menim da je to naredil načrtno in ni podlegel njenim ženskih čaram.
 18. ---
 19. Lovljenje partizanov

@@ -11,13 +11,10 @@ $\varepsilon$ - okolica števila $a$ je interval $(a - \varepsilon, a + \varepsi
 $x \in O_\varepsilon(a)$
 $|a - x| < \varepsilon$
 
-Pravila za računanje limit
-$$\lim_{n \to \infty} c = c$$
-$$\lim_{n \to \infty} \frac{1}{n} = 0$$
-$$\lim_{n \to \infty} (a_n \pm b_n) =  \lim_{n \to \infty} a_n \pm \lim_{n \to \infty} b_n$$
-$$\lim_{n \to \infty} (a_n * b_n) =  \lim_{n \to \infty} a_n *  \lim_{n \to \infty} b_n$$
-$$\lim_{n \to \infty} \frac{a_n}{b_n} =  \frac{\lim_{n \to \infty} a_n}{\lim_{n \to \infty} b_n} \text{, } \quad \lim_{n \to \infty} b_n \neq 0$$
+[[Pravila za računanje limit]]
+
 ---
+
 **Stikališče**
 Število $s$ je **stikališče** zaporedja, če je v vsaki poljubno majhni okolici te točke neskončno mnogo členov zaporedja.
 
