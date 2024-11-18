@@ -13,13 +13,22 @@
 9. Ne
 10. V očeh vidi laž, v Sonji vidi zvesto Nemko.
 11. Da se ne uprejo.
-12. Ne vem, kako si ga razlagam.
-13. Ni imel vozovnice za v mesto v katerem je bil. Zaradi Sonje..
-14. Na prvi kavi, ko reče, da bi jo "Še kdaj pobral iz snega"
-15. Ker govori Nemško je dobra. Slovenci so vedmo manj zadovoljeni z okupatorji, vendar se ne uperejo.
-16. Nek model je biu ful car v SS. Golobcnik. Biu je glavni ubjalec Polskih judov
-17. Ja, ker ji je želel ustreči.
-18. Strah jo je. Svet se trese. 
-19. Lovi partizane.
-20. Ja, sluti seks. Zdi se mi, da lahko varaš ljubimca, če mu s tem rešiš življenje.
-21. Onomatopoija. 
+12. Ne vem kako bi si to pojavo razlagal. Sklepam, da je bil to del njegove burne domišljije, saj ne verjamem, da bi lahko nekdo tako neopazno plezal na okno in potem tudi izginil brez sledi.
+13. Tine je gostom sumljiv, ker pri sebi ni imel vozovnice, bil je dobro oblečen, kar je kazalo na to, da se je mogoče potikal po bližnjem pohorju. Ker ni imel vozovnice, Kers so imeli ta pravico in uživali so v pretepajanju.
+14. Ludwig mu to pomeni kot intro uže shoraji tudi, go njimean opravim stem ko izve, da so zaplinj in njega prijatelja.
+15. Meni daje Sonja državna državljana, saj govori tekočo nemščino. Meni da bodo Slovenci le še bodo naučili nekaj kulture in jezika bil v eni generaciji boljši Nemci kot ostali.
+16. Globocnik je bil ofizir SS policije, delal je na poljskem, bil je eden imnel vadnih pri pomoru bili lovoro judi.
+17. Ludwig menim, da je Ludwig je imel varno veliko šlilo z ženskami zato je pogrebal priložnost, ko je jim je. Menim da je to naredil načrtno in ni podlegel njenim ženskih čaram.
+18. ---
+19. Lovljenje partizanov
+20. da Sonja naj jo šel na lov hoditi groti: Ludigovem stanovanju. Menim, da je njeno dejanje opravičeno saj je menedavel živel zahtevv svojemu ljubimcu s tem da je šiv postelja z Ludvigom.
+21. Sonja je sbiljena v postelji takor reče Ludvig leži Lot blod Torej ne stoji prav nič da bi mu bilo lažje Onomotopija.
+22. Preprosto je bil tudi sin prestrašen. Borda pa je bila to zanji več je je v svoji ni uspel pred preskočiti.
+23. Zagotav, too.
+24. Zelo mogoče odločitive. Morda bi se srečanje odvilo drugače že bi ga imela po vojni (če tega pisat študij). Menim, da je na nigan lone vplučilo predvsem to, da obista dovolj komunikacijah bodinega srečanja, Yogore je Sonja rekla sabo vest. Ishočne menim da si lablo lila strejasi se kropi, toda bi se morala dogovoriti za srečanje po koncu vojne. le bi se use umirilo.
+25. ---
+26. ---
+27. ker mogoče Njegova soba zgleda kot soba nekoga mesticnika ali intimalo ne spominja na sobo vsebega SS ofizirja. Prvo tolo se odeloži s svojim panum. In se mi ne zidi obfelithena s ni ga ne pozna doub. Obitno sporenk.
+28. ker Ludwig tlans namigaic da so zreko redo izmanjaviše v Ludvig sonjo da Aho se za vojno srečanja s Sonjo in povezavnost ke teh z izpositlupijo gerijanje, če bi tavurn zgodobi odbic ke s ma izmazluii neb Gorjan ne bi bil problema ker he bi imel pogovor let zims men Ludvig s Sonjo.
+29. Napake je popravil tako, da je poslel Sonjo in očeta v zahodjo na sever.
+30. Zelo unconcludant.

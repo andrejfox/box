@@ -4,4 +4,4 @@ $g(x)=x+2$
 $f(g(x))=f(x+2)=(x+2)^2$
 $g(f(x))=g(x^2)=x^2+2$
 
-[[Šola/Mat/Funkcije/Sestavljena funkcija/Vaje|Vaje]]
+[[Šola/Mat/Funkcije/Vaje|Vaje]]

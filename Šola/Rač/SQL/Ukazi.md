@@ -1,7 +1,7 @@
-`CREATE TABLE [shema.] <NazivTabele>` - Nova tabela
+`CREATE TABLE <shema.> <NazivTabele>` - Nova tabela
 `ALERT TABLE` - Modifikacije
 `DROP TABLE` - Brisanje
-
+`<ime> <type> <lastnost>`  - stolpec
 ```sql
 CREATE TABLE Oseba (
 	EMŠO varchar(13) PRIMARY KEY,
@@ -10,7 +10,7 @@ CREATE TABLE Oseba (
 	spol CHAR(1) DEFAULT "Ž",
 	dat_rojstva DATE
 );
-//or
+#or
 CREATE TABLE Oseba (
 	EMŠO varchar(13),
 	priimek VARCHAR(10) NOT NULL,

@@ -1,6 +1,11 @@
-Funkcija ali preslikava je prepis, ki vsakemu elementu iz množice A priredi natanko določen element iz množice B.
+**Funkcija** $f$ iz množice $A$ v množico $B$ je predpis, ki vsakemu elementu $x$ iz množice $A$priredi natanko en element $y$ iz množice $B$.
 $f: A \rightarrow B$
 $f: x \rightarrow y=f(x)$
+
+**Graf funkcije** $f$ je množica urejenih parov $(x, y)$, kjer je $x \in D_f$ in $y = f(x)$.
+$A$ = $B$ = $\mathbb{R}$ realna funkcija realne spremenljivke
+
+[[Lastnosti funkcij]]
 
 Linearna - $f(x)=kx+n$
 Kvadratna - $f(x)=ax^2+bx+c$, $a \neq 0$

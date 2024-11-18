@@ -1,4 +1,4 @@
 [[Šola/Rač/Testi/Test 1]]
-[[Test 2]]
+[[Šola/Rač/Testi/Test 2]]
 [[Test 3]]
 [[Test 4]]
