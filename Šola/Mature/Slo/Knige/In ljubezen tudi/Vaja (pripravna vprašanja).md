@@ -18,11 +18,11 @@
 14. Ludwig mu to pomeni kot intro uže shoraji tudi, go njimean opravim stem ko izve, da so zaplinj in njega prijatelja.
 15. Meni daje Sonja državna državljana, saj govori tekočo nemščino. Meni da bodo Slovenci le še bodo naučili nekaj kulture in jezika bil v eni generaciji boljši Nemci kot ostali.
 16. Globocnik je bil ofizir SS policije, delal je na poljskem, bil je eden vodilnih za poboje miljonov ljudi.
-17. Ludwig menim, da je Ludwig je imel varno veliko šlilo z ženskami zato je pogrebal priložnost, ko je jim je. Menim da je to naredil načrtno in ni podlegel njenim ženskih čaram.
-18. ---
-19. Lovljenje partizanov
+17. Ludwig menim, da je Ludwig je imel varno veliko šlilo z ženskami zato je pogrebal priložnost, ko je jim je. Menim da je to naredil načrtno in ni podlegel njenim ženskih čaram. Ludwig ve, da se nikoli ne bo mogel približati sonji tako kot se je Tine. Ludvig se sam zave, da je naredil neodpustljivo napako.
+18. Kontrastiranje - uporaba nasprotji. Na stopnicah misli na park, ki je nasprotje, park ji je znan.
+19. Ludvig je predstavljen kot človek. "Dober ribič sem bil, rad sem jih lovil, nisem jih rad ubijal." (86)
 20. da Sonja naj jo šel na lov hoditi groti: Ludigovem stanovanju. Menim, da je njeno dejanje opravičeno saj je menedavel živel zahtevv svojemu ljubimcu s tem da je šiv postelja z Ludvigom.
-21. Sonja je sbiljena v postelji takor reče Ludvig leži Lot blod Torej ne stoji prav nič da bi mu bilo lažje Onomotopija.
+21. Sonja je posiljena v postelji, kakor reče Ludvig leži kot hlod Torej ne stori prav nič da bi mu bilo lažje. (89) "ljubi bogec, kaj sem storila" ponavljanje, zatikanje.
 22. Preprosto je bil tudi sin prestrašen. Borda pa je bila to zanji več je je v svoji ni uspel pred preskočiti.
 23. Zagotav, too.
 24. Zelo mogoče odločitive. Morda bi se srečanje odvilo drugače že bi ga imela po vojni (če tega pisat študij). Menim, da je na nigan lone vplučilo predvsem to, da obista dovolj komunikacijah bodinega srečanja, Yogore je Sonja rekla sabo vest. Ishočne menim da si lablo lila strejasi se kropi, toda bi se morala dogovoriti za srečanje po koncu vojne. le bi se use umirilo.

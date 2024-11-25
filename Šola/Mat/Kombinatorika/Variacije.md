@@ -3,7 +3,7 @@ $n$ elementov, $r$ jih postavimo v vrsto.
 **Brez ponavljanja**
 $r \leq n$ -> variacije reda $r$ iz $n$ elementov
 $V_n^r = \underbrace{n * (n - 1) * \dots * (n - r + 1)}_{r \text{ faktorjev}} = \frac{n!}{(n - r)!}$
-Variacije brez ponavlanja so injektivne preslikave iz množice z močjo $r$ v množico z močjo $n$.
+Variacije brez ponavljanja so injektivne preslikave iz množice z močjo $r$ v množico z močjo $n$.
 
 $V_n^2 = 20$
 $n * (n - 1) = 20$
