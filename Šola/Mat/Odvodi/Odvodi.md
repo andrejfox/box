@@ -2,6 +2,8 @@ Definicija odvoda:
 Odvod funkcije $f$ v točki $x_1$ je enak limiti diferenčnega kličnika, ko gre h proti 0.
 Če limita obstaja je funkcija odvedljiva.
 
+[[Pravila za odvajanje funkcij]]
+
 naklonski kot premice:
 $y=kx+n$
 $k = \tan \phi$
