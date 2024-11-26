@@ -32,21 +32,21 @@
 28. ker Ludwig tlans namigaic da so zreko redo izmanjaviše v Ludvig sonjo da Aho se za vojno srečanja s Sonjo in povezavnost ke teh z izpositlupijo gerijanje, če bi tavurn zgodobi odbic ke s ma izmazluii neb Gorjan ne bi bil problema ker he bi imel pogovor let zims men Ludvig s Sonjo.
 29. Napake je popravil tako, da je poslel Sonjo in očeta v zahodjo na sever.
 30. Zelo unconcludant.
-31. Polde je partizan, ki ga un velik model Borben obsodi, da je izdajalec, čeprav se je boril z partizani dlje kot Valentin Gorjan
-32. Moje menje je, da so partizani predstavljeni boljši kot so zares bili. Življenje je sicer težko ampak večino bitk so zmagali, kar se mi ne zdi verjetno. IZ mnogih situacij so pobegnili brez težav, čepraj jo avtor opiše kot brezupno.
-33. Zdi se mi, da je ubijanje izdajalcev upravičeno, strahopedci pa bi morali biti preprosto izpuščeni. Razumem, da obstajajo skrivnosti, ki se naj ne bi širile ampak vseeno.
+31. (171) Polde je partizan, ki ga un velik model Borben obsodi, da je izdajalec, čeprav se je boril z partizani dlje kot Valentin Gorjan
+32. (179) Moje mnenje je, da so partizani predstavljeni boljši kot so zares bili. Življenje je sicer težko ampak večino bitk so zmagali, kar se mi ne zdi verjetno. IZ mnogih situacij so pobegnili brez težav, čepraj jo avtor opiše kot brezupno.
+33. (177) Zdi se mi, da je ubijanje izdajalcev upravičeno, strahopedci pa bi morali biti preprosto izpuščeni. Razumem, da obstajajo skrivnosti, ki se naj ne bi širile ampak vseeno.
 34. Borbenov rek je bolj optimističen, saj pravi, da se lahko najde skupina ljudi, ki med seboj dobro sodeluje. Mischolnigov rek pravi, da v vsaki skupini lahko odpovejo vsi. Eden predstavlja slab začetek z dobrim koncem, drug pa dober začetek s slabo lastnostjo.
 35. Agata more dokazati, da ni čarovnica. To naredi z nemogočim preiskusom iz katerega jo reši Jurij. Tu je tudi Valentin v položaju, ko vsi ostali umrejo, on pa preživi zaradi Sonjine žrtve.
 36. Da strejo in iz semen naredijo čisto moko.
-37. V isti situaciji so. Pod bremenom priznajo lažno stvar, kljub temu, da je niso zares storili.
-38. Da je človek kriv.
-40. Ker pozabi na sedanjost. FOKUS FANTJE!!!
-41. Poistoveti se z njimi. Predstavlja si, da je on v tem tovornjaku in da ničhudega sluteč umre.
+37. (218) V isti situaciji so. Pod bremenom priznajo lažno stvar, kljub temu, da je niso zares storili.
+38. (196) Da je človek kriv.
+40. (203) (126) Ker pozabi na sedanjost. FOKUS FANTJE!!! v vojni moraš biti 
+41. (236) So kot zajci. Lovec in divjad. Poistoveti se z njimi. Predstavlja si, da je on v tem tovornjaku in da ničhudega sluteč umre.
 42. NE
-43. Zelo strogo iskanje izdajalcev. Vsak kraj ima svoje strategije in mavenre.....
-44. S svojim petjem.  Sonja mu je pošiljala kitice in speve.
-45. Povezuje jih s Stalinom.
-46. Pripadali so Panteo-Nacistom
+43. (240) Zelo strogo iskanje izdajalcev. Vsak kraj ima svoje strategije in mavenre.....
+44. S svojim petjem in smehom. Sonja mu je pošiljala kitice in speve.
+45. (246) Povezuje jih s Stalinom.
+46. (264) Pripadali so Panteo-Nacistom. Bazovica - vas na Trsu kjer so fašisti streljali partizane.
 47. Ker so se borili za isto kos kruha.
 48. Spominja ga na nekoga. 
 49. Ne zanm
