@@ -46,3 +46,5 @@ $x = 1$, $k=-1$
 $x= -1$, $k = -1$
 ![[Pasted image 20241125141811.png]]
 
+$f(x)=ax^3$
+$f'(x)=\lim_{h \to 0} \frac{f(x+h) - f(x)}{h} = \lim_{h \to 0} \frac{a(x+4)^2-ax^3}{h} = \lim_{h \to 0} \frac{a(x^3+h^3+3x^2h+3xh^2)}{h} = \lim_{h \to 0} \frac{a(h^3+3x^2+3xh^2)}{h} = \lim_{h \to 0} \frac{ah(h^2+3xh+3x^2)}{h} = 3x^2a$
