@@ -8,14 +8,17 @@ To je del prvega romana iz cikla romanov.
 
 **Pogojna sinestezija**
 
-**nehotni spomin**: Spomin, ki se sproži ob nekem majhnem dogodku.
+**nehotni spomin**: Spomin, ki se sproži ob nekem majhnem dogodku. Usmerja zgradbo romana. Temelji na istih čutnih zaznavah.
 
-**Personalni prvoosebni pripovedovalec**!!!
+**Personalni prvoosebni pripovedovalec**!!! - subjektivnost!
 **Moderna književnost**: Zgodbo občutimo skozi pripovedovalca. Tok zavesti, asociativna tehnika. Fragmentarnost / razdrobljenost.
 
 Preobrazba iz otroka v umetnika.
 Prikaz življenja v visoki družbi v Franciji, na prehodu iz 19. v 20 stoletje.
 Pripovedovalec je precej razočaran nad visoko družbo, vsi ga razočarajo, prijatelji, ljubezn. Zato se cikl imenuje v iskanju izgubljenega časa, ker misli, da je bil čas zapravljen. Smisel najde v pisanju teh romanov (umetniško ustvarjanje).
+
+**Proust**
+Rojen v premožni francoski družini, bil je hud astmatik. Zelo močno je bil navezan na mater. Njena smrt je bila tudi spodbuda za pisanje. Njegovo najznamenitejše delo je cikel romanov iskanje izgubljenega časa. Umrl zaradi pljučnice.
 
 **Combray** - ime izmišljenega mesta, kjer je pripovedovalec kot otrok preživljal počitnice. Spominja se kako je na obisk prihajal sosed Swann in kako mu je to vzelo večerni poljub mame. Spominja se vseh sob v katerih je spal. Ko ugrizne v magdalenico se mu prikaže preteklost.
 
