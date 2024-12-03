@@ -8,4 +8,4 @@ košarkar zadene v 0,9
 3x zadene, zadnjega meta pa ne
 $P(A) = 0,9^3 * 0,1$
 8x vrže, točno 7x zadane koš
-$P(B) = \binom{8}{7} * 0,9^{8} * 0,1$
+$P(B) = \binom{8}{7} * 0,9^{7} * 0,1$
