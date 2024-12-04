@@ -1,0 +1,4 @@
+- Študirala je medicino v Gradcu a študija ni dokončala
+- Stara je okoli 30 (cca27) (282)
+- zanimala jo je poezija
+- stanovala je ob kostanjevem drevoredu

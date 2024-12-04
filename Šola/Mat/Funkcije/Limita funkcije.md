@@ -16,7 +16,6 @@ $f(2) \ ni \ definirano$
 $\lim_{x \to 2} f(x) = 4$
 ![[Pasted image 20241118135907.png]]
 
-nigga nigga nigga 
 $f(x) = \begin{cases} x^2 & : x < 2 \\ x + 3 & : x > 2 \end{cases}$
 $f(2) \ ni \ definirano$
 $\lim_{x \to 2} f(x) = \ ne \ obstaja$
