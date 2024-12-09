@@ -10,5 +10,13 @@ Njegov odnos do slovenščine je to nek kmečki jezik.
 razmišlja v nemščini (118)
 Ko slišimo njegovo človeško stran postane ludek.
 ludvik miškolnik(341)
-opurtunist - oseba ki se zaradi lastnih koristi prilagodi
+opurtunist - oseba, ki se zaradi lastnih koristi prilagodi
 všeč mu je glasba
+
+Oznaka:
+- Krut (nima moralnih zadržkov)
+- impotenten (udarec za samozavest)
+- Verjame v večvrednost nemške rase, želi si biti del tega.
+- osamljen
+- Včasih vidimo sledove njegove človečnosti.
+- manipulativen
