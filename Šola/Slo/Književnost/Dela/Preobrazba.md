@@ -13,7 +13,7 @@ Simboli/Motivi:
 podzavestna želja
 precepcija samega sebe  in odnosov z drugimi (glavni motiv)
 - 4 znane stene - predstavlja ujetost
-- prehranjevanje - ustrajanje pri življenju 
+- prehranjevanje - ustrajanje pri življenju
 - vreme - predstavlja končno odrešitev
 - rana - fizična rana bolj predstavlja psihično
 
