@@ -2,3 +2,6 @@
 [[Petar]]
 [[Jaka]]
 [[Merkun]]
+[[Svit]]
+[[Ansi]]
+[[Jože]]

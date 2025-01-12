@@ -1,6 +1,8 @@
 [[Domače naloge]]
 [[Excel & HTML]]
 [[Dexi]]
+[[Kodiranje podatkov]]
+[[Šifriranje]]
 ### [Učbenik](https://lusy.fri.uni-lj.si/ucbenik/book/index.html)
 80% - pisni del (zunanji del) (dve poli)
 	- 1. pola - enostavne naloge

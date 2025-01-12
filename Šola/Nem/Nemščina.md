@@ -15,4 +15,4 @@
 [[Personalpronomen (Osebni zaimki)]]
 [[Relativsatze]]
 [[3. + 4. sklon]]
-
+[[Verletzungen (poškodbe)]]

@@ -1,4 +1,4 @@
- **Avtor: Drago Jančar**
+**Avtor: Drago Jančar**
 To je Jančarjev 11. roman, zanj je prejel kresnika
 (4. roman za katerega ga je prejel). 
 Jančar pisatelj, dramatik, esejist, rojen 1948 v Mariboru. Bil je novinar časnika Večer. Zaradi obtožbe širjenja sovražne propagande tudi zaprt (1974). Poleg pri večeru tudi delal pri Viba filmu. 1985 prejme posebno štipendijo za umetnike. V letih 1987 - 1991 je bil predsednik slovenskega centra Pen. Tudi to poleg nove revije je pomembno za osamosvajanje. Od leta 1995 je bil izredni član SAZU-ja.
@@ -14,6 +14,8 @@ Halštat
 2018 In Ljubezn tudi
 2020 - Avstrijska državna nagrada za evropsko literaturo
 
+[[Osebe]]
+[[Ljubezne premega vse, zarn vojne]]
 
 **Človek na razpotju časa**
 Kako se človek znajde v skrajnih zgodovinskih okoliščinah.

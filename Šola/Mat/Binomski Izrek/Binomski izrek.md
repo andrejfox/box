@@ -1,3 +1,5 @@
+[[Šola/Mat/Binomski Izrek/Vaje|Vaje]]
+
 $(a+b)^0=1$
 $(a+b)^1=1a+1b$
 $(a+b)^2=1a^2+2ab+1b^2$

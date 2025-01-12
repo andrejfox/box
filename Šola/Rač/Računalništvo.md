@@ -33,3 +33,5 @@ PDF-ji:
 [[UML - activity diagrami]]
 
 # [[Podatkovne baze]]
+[[DDL]]
+[[DML]]

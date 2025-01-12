@@ -2,7 +2,17 @@ Definicija odvoda:
 Odvod funkcije $f$ v točki $x_1$ je enak limiti diferenčnega kličnika, ko gre h proti 0.
 Če limita obstaja je funkcija odvedljiva.
 
+[[Šola/Mat/Odvodi/Enačbe|Enačbe]]
+
+[[Odvodi]]
 [[Pravila za odvajanje funkcij]]
+[[Odvodi kotnih funkcij]]
+[[Odvod eksponentne in logaritemske funkcije]]
+[[Odvod implicitno podane funkcije]]
+[[Odvod sestavljene funkcije]]
+[[Višji odvodi]]
+[[Stacionarne točke]]
+[[Kot med grafom funkcije f(x) in k. osema]]
 
 naklonski kot premice:
 $y=kx+n$

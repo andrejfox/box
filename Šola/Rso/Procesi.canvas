@@ -1,162 +1,130 @@
 {
-  "nodes": [
-    {
-      "id": "ebd22f54494ce41d",
-      "type": "text",
-      "text": "stanje izvajanja",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -30,
-      "width": 185,
-      "height": 60
-    },
-    {
-      "id": "4fa3630f11932b29",
-      "type": "text",
-      "text": "stanje čakanja na izvajanje",
-      "styleAttributes": {},
-      "x": 0,
-      "y": -30,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "14eb6ced1f028f35",
-      "type": "text",
-      "text": "main proces",
-      "styleAttributes": {},
-      "x": 280,
-      "y": -140,
-      "width": 160,
-      "height": 50
-    },
-    {
-      "id": "31c26e14dcf8571b",
-      "type": "text",
-      "text": "fork proces",
-      "styleAttributes": {},
-      "x": 385,
-      "y": -20,
-      "width": 160,
-      "height": 50
-    },
-    {
-      "id": "42c96fc213ce9e69",
-      "type": "text",
-      "text": "main proces",
-      "styleAttributes": {},
-      "x": 280,
-      "y": 100,
-      "width": 160,
-      "height": 62
-    },
-    {
-      "id": "228aa75006e51533",
-      "type": "text",
-      "text": "print\n! papir zmankov",
-      "styleAttributes": {},
-      "x": -470,
-      "y": 71,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "81bdbe1bb3e2ce38",
-      "type": "text",
-      "text": "suspended",
-      "styleAttributes": {},
-      "x": -203,
-      "y": 200,
-      "width": 151,
-      "height": 62
-    },
-    {
-      "id": "35493e6cf9a30984",
-      "type": "text",
-      "text": "**konec procesa**\nNormalno: izteče\nnasilno: parent process od otroka zahteva da se ubije.\n\nLahko pride do zombie procesov, otroci, ki se niso ubili.",
-      "styleAttributes": {},
-      "x": -520,
-      "y": -280,
-      "width": 317,
-      "height": 215
-    }
-  ],
-  "edges": [
-    {
-      "id": "6bb18327a3e0620a",
-      "fromNode": "ebd22f54494ce41d",
-      "fromSide": "top",
-      "toNode": "4fa3630f11932b29",
-      "toSide": "top",
-      "color": "6"
-    },
-    {
-      "id": "528d094d1e9909d7",
-      "fromNode": "4fa3630f11932b29",
-      "fromSide": "bottom",
-      "toNode": "ebd22f54494ce41d",
-      "toSide": "bottom",
-      "color": "6"
-    },
-    {
-      "id": "ead051cbf6668b86",
-      "fromNode": "14eb6ced1f028f35",
-      "fromSide": "bottom",
-      "toNode": "42c96fc213ce9e69",
-      "toSide": "top"
-    },
-    {
-      "id": "21a18692b50e9cb2",
-      "fromNode": "14eb6ced1f028f35",
-      "fromSide": "bottom",
-      "toNode": "31c26e14dcf8571b",
-      "toSide": "top"
-    },
-    {
-      "id": "f42edcfe31faeb55",
-      "fromNode": "31c26e14dcf8571b",
-      "fromSide": "bottom",
-      "toNode": "42c96fc213ce9e69",
-      "toSide": "top"
-    },
-    {
-      "id": "d1acbabd8ed50ee5",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
-      "fromNode": "ebd22f54494ce41d",
-      "fromSide": "left",
-      "toNode": "228aa75006e51533",
-      "toSide": "top",
-      "color": "1"
-    },
-    {
-      "id": "05ede7f403302c07",
-      "styleAttributes": {},
-      "fromNode": "228aa75006e51533",
-      "fromSide": "bottom",
-      "toNode": "81bdbe1bb3e2ce38",
-      "toSide": "left",
-      "color": "1"
-    },
-    {
-      "id": "2e830ab900d5a10b",
-      "styleAttributes": {},
-      "fromNode": "81bdbe1bb3e2ce38",
-      "fromSide": "right",
-      "toNode": "4fa3630f11932b29",
-      "toSide": "bottom",
-      "color": "1"
-    },
-    {
-      "id": "94a1760a2f152266",
-      "styleAttributes": {},
-      "fromNode": "ebd22f54494ce41d",
-      "fromSide": "left",
-      "toNode": "35493e6cf9a30984",
-      "toSide": "bottom",
-      "color": "5"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"ebd22f54494ce41d",
+			"type":"text",
+			"text":"stanje izvajanja",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-30,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"4fa3630f11932b29",
+			"type":"text",
+			"text":"stanje čakanja na izvajanje",
+			"styleAttributes":{},
+			"x":0,
+			"y":-30,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"14eb6ced1f028f35",
+			"type":"text",
+			"text":"main proces",
+			"styleAttributes":{},
+			"x":280,
+			"y":-140,
+			"width":160,
+			"height":50
+		},
+		{
+			"id":"31c26e14dcf8571b",
+			"type":"text",
+			"text":"fork proces",
+			"styleAttributes":{},
+			"x":385,
+			"y":-20,
+			"width":160,
+			"height":50
+		},
+		{
+			"id":"42c96fc213ce9e69",
+			"type":"text",
+			"text":"main proces",
+			"styleAttributes":{},
+			"x":280,
+			"y":100,
+			"width":160,
+			"height":62
+		},
+		{
+			"id":"228aa75006e51533",
+			"type":"text",
+			"text":"print\n! papir zmankov",
+			"styleAttributes":{},
+			"x":-470,
+			"y":71,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"81bdbe1bb3e2ce38",
+			"type":"text",
+			"text":"suspended",
+			"styleAttributes":{},
+			"x":-203,
+			"y":200,
+			"width":151,
+			"height":62
+		},
+		{
+			"id":"35493e6cf9a30984",
+			"type":"text",
+			"text":"**konec procesa**\nNormalno: izteče\nnasilno: parent process od otroka zahteva da se ubije.\n\nLahko pride do zombie procesov, otroci, ki se niso ubili.",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-280,
+			"width":317,
+			"height":215
+		}
+	],
+	"edges":[
+		{"id":"6bb18327a3e0620a","fromNode":"ebd22f54494ce41d","fromSide":"top","toNode":"4fa3630f11932b29","toSide":"top","color":"6"},
+		{"id":"528d094d1e9909d7","fromNode":"4fa3630f11932b29","fromSide":"bottom","toNode":"ebd22f54494ce41d","toSide":"bottom","color":"6"},
+		{"id":"ead051cbf6668b86","fromNode":"14eb6ced1f028f35","fromSide":"bottom","toNode":"42c96fc213ce9e69","toSide":"top"},
+		{"id":"21a18692b50e9cb2","fromNode":"14eb6ced1f028f35","fromSide":"bottom","toNode":"31c26e14dcf8571b","toSide":"top"},
+		{"id":"f42edcfe31faeb55","fromNode":"31c26e14dcf8571b","fromSide":"bottom","toNode":"42c96fc213ce9e69","toSide":"top"},
+		{
+			"id":"d1acbabd8ed50ee5",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"fromNode":"ebd22f54494ce41d",
+			"fromSide":"left",
+			"toNode":"228aa75006e51533",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"05ede7f403302c07",
+			"styleAttributes":{},
+			"fromNode":"228aa75006e51533",
+			"fromSide":"bottom",
+			"toNode":"81bdbe1bb3e2ce38",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"2e830ab900d5a10b",
+			"styleAttributes":{},
+			"fromNode":"81bdbe1bb3e2ce38",
+			"fromSide":"right",
+			"toNode":"4fa3630f11932b29",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"94a1760a2f152266",
+			"styleAttributes":{},
+			"fromNode":"ebd22f54494ce41d",
+			"fromSide":"left",
+			"toNode":"35493e6cf9a30984",
+			"toSide":"bottom",
+			"color":"5"
+		}
+	],
+	"metadata":{}
 }

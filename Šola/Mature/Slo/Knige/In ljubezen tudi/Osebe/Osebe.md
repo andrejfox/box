@@ -1,0 +1,8 @@
+[[Sonja Belak]]
+[[Valentin Gorjan (Tine)]]
+[[Ludvig]]
+[[Katica]]
+[[Borben]]
+[[Janez Lešnik]]
+[[Gorenšek = Roml]]
+[[Anton (Tone)]]
