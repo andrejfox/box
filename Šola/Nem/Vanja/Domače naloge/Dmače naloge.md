@@ -13,3 +13,6 @@ razporedi po sklonih in daj v množino.
 9.11.2024 | **10.10. 19.00**
 Oblikuj povedi z novimi besedami.
 [[9.11.2024]]
+
+7.12.2024 | 
+Vsi listi od profesorice.
