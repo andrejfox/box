@@ -44,4 +44,32 @@ SELECT *
 	FROM tableName
 	WHERE (cena > 20000 AND kolicina < 10)
 		AND ime NOT IN ('Jakob', 'Ana', 'Marko');
+
+-- LIKE je kot regex filter
+-- % (kateri koli niz znakov) 'ana%' | '%ana' | '%ana%'
+-- _ (katerikoli znak (en)) 'a_a'
+SELECT *
+	FROM tableName
+	WHERE ime LIKE '_na%';
+
+-- Povsod kjer je vsebina stolpca prazna.
+-- IS NULL / IS NOT NULL
+SELECT *
+	FROM tableName
+	WHERE ime IS NULL;
+
+-- izpis po priimku (primarno) in imeni (sekundarno)
+-- DESC (padajoče) (9->1, z->a) / ASC (naraščajoče) (1->9, a->z)
+SELECT *
+	FROM tableName
+	ORDER BY priimek DESC, ime DESC;
+
+-- Agregacija podatkov z SELECT stavkom
+-- COUNT, SUM, AVG, MIN, MAX
+-- COUNT, MIN, MAX <vsi podatki, null preskoči>
+-- SUM + AVG <numerični p., null preskoči>
+SELECT COUNT(*) -- Izpiše število zapisov
+	FROM tableNam;
+SELECT COUNT(mie) -- izpiše število vrednosti v tabele ki imajo ime not null
+	FROM tableName;
 ```
