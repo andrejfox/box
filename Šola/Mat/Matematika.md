@@ -6,3 +6,4 @@
 [[Verjetnost]]
 [[Statistika]]
 [[Funkcije]]
+[[Odvodi]]
