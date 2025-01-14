@@ -13,6 +13,7 @@ Odvod funkcije $f$ v točki $x_1$ je enak limiti diferenčnega kličnika, ko gre
 [[Višji odvodi]]
 [[Stacionarne točke]]
 [[Kot med grafom funkcije f(x) in k. osema]]
+[[Globalni ekstrem na intervalu od a do b]]
 
 naklonski kot premice:
 $y=kx+n$

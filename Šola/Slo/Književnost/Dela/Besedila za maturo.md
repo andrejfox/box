@@ -15,3 +15,7 @@ Monolitna struktura, ni členjena na kitice.
 
 **Antigona Sofoklej**
 Mit o tebanski kraljevi hiši. Predstavitev.
+Polinej in Eteokelj
+Kreon
+Morala <-> zakon
+Antigonina ideja o častnem pokopu preživi

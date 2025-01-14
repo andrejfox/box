@@ -4,6 +4,4 @@
 [[Pripovedovalec (neimenovan)]]
 [[Barka]]
 [[Devin]]
-
-
-7. 
+[[Meta]]

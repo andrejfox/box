@@ -8,7 +8,7 @@
 [[Poems]]
 
 Knjiga:
-[[Never let me go]] - Kazuo Ishihuro (5. oktober - kratek test)
+[[Šola/Mature/Ang/Books/Never Let me go/Never let me go]] - Kazuo Ishihuro (5. oktober - kratek test)
 About A Boy - Nick Hornby (14. december - kratek test)
 
 Pesmi (ustni del):
