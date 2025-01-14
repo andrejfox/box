@@ -14,5 +14,5 @@ razporedi po sklonih in daj v množino.
 Oblikuj povedi z novimi besedami.
 [[9.11.2024]]
 
-7.12.2024 | 
-Vsi listi od profesorice.
+7.12.2024 | [[21.12.2024]]
+Poprava

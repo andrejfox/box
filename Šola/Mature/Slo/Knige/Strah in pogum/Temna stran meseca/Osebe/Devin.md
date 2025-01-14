@@ -1,0 +1,1 @@
+Svet je najresničnejši, ko ga gledaš po diagonali, kot nanj gledajo otroci in umetniki
