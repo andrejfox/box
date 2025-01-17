@@ -16,6 +16,7 @@ Halštat
 
 [[Osebe]]
 [[Ljubezne premega vse, zarn vojne]]
+[[Poprava]]
 
 **Človek na razpotju časa**
 Kako se človek znajde v skrajnih zgodovinskih okoliščinah.
