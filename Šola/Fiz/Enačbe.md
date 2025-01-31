@@ -16,3 +16,5 @@ $j_0=10^{-12} [\frac{W}{m^2}]$
 $J=10\log(\frac{j}{j_0})$ -> glasnost
 $\lambda_N=\frac{\lambda_1}{2N-1}$ -> stoječe valovanje v resonatorju
 $\nu_N=\nu_1(2N-1)$
+
+$\frac{1}{f_{2}}$

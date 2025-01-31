@@ -10,7 +10,8 @@
 }
 ```
 This is equivalent to this peace of pseudo code:
-```export function({pkgs, lib, ...}) {
+```
+export function({pkgs, lib, ...}) {
 	return {
 		"option1.enable" = true,
 		"systemPackages" = [
@@ -18,7 +19,10 @@ This is equivalent to this peace of pseudo code:
 		],
 	}
 }
-```[andrej@nixos:/etc/nixos]$ nixos-rebuild dry-build --flake /etc/nixos#default
+```
+```
+[andrej@nixos:/etc/nixos]$ nixos-rebuild dry-build --flake /etc/nixos#default
 building the system configuration...
 
 [andrej@nixos:/etc/nixos]$ 
+```

@@ -8,8 +8,12 @@ Flakes: ``
 >  `/bluetooth`
 
 **Rebuilding:**
-Creates a system version: `sudo nixos-rebuild switch`
+Creates a system version:  
 Rebuilds system but no addition to boot loader : `sudo nixos-rebuild test`
 Cleaning up system versions: `sudo nix-collect-garbage --delete-older-than 15d`
 
+**bins:**
+All in `/nix/store`
+
 [[Modules]]
+[[Flakes]]
