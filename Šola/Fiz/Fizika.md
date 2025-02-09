@@ -12,7 +12,9 @@
 
 ---
 
+Babnik: [[fiz_svetloba.pdf]]
 [[Elektro magnetno valovanje]]
+[[Svetloba EM valovanja]]
 
 ---
 
