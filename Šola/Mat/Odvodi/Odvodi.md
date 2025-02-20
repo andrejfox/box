@@ -2,6 +2,9 @@ Definicija odvoda:
 Odvod funkcije $f$ v točki $x_1$ je enak limiti diferenčnega kličnika, ko gre h proti 0.
 Če limita obstaja je funkcija odvedljiva.
 
+![[Pasted image 20250219125658.png]]
+![[Pasted image 20250219125746.png]]
+
 [[Šola/Mat/Odvodi/Enačbe|Enačbe]]
 
 [[Odvodi]]
@@ -23,8 +26,8 @@ $k=\frac{\Delta y}{\Delta x}$ - diferenčni količnik
 diferenčni količnik:
 $\frac{f(x_1 + h) - f(x_1)}{h}$
 
-Odvod $f$ v točki $x_1$
-$f'(x_1)=\lim_{h \to 0} \frac{f(x_1 + h) - f(x_1)}{h}$
+Odvod $f$ v točki $x_0$
+$$f'(x_0)=\lim_{ \Delta x \to 0 } \frac{\Delta y}{\Delta x}=\lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$$
 ![[Pasted image 20241125135018.png]]
 
 Geometriski pomen odvoda:

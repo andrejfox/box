@@ -75,7 +75,6 @@ SELECT COUNT(*) -- Izpiše število zapisov
 	FROM tableNam;
 SELECT COUNT(mie) -- izpiše število vrednosti v tabele ki imajo ime not null
 	FROM tableName;
-	I HATE NIGGERS
 ```
 
 ```sql

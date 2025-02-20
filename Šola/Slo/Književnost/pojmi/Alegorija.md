@@ -1,0 +1,1 @@
+Nekaj abstraktnega ponazorimo z konkretnim.
