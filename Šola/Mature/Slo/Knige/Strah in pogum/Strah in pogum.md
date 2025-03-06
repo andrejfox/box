@@ -7,3 +7,7 @@ ARS 19.00 -> 96,5 FM
 [[Barka]]
 [[Devin]]
 [[Meta]]
+
+Etični konflikt, konflikt med osebno vestjo in zgodovinskim delovanjem.
+
+Nietzsche -> koncept volje do moči. -> nadčlovek, cilj posvečuje sredstva

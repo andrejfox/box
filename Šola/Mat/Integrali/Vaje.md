@@ -19,3 +19,5 @@ $$\int \frac{x-3}{x^2-6x+5}dx=\int \frac{(x-3)dy}{2y(x-3)}dx=\int \frac{dy}{2y}=
 $$y=x^2-6x+5$$
 $$dy=(2x-6)dx$$
 $$dx=\frac{dy}{2(x-3)}$$
+---
+$$\int^e_{2}(e*2^x-2e^x)dx=\frac{e*2^x}{\ln_{2}}-2e^x|_{2}^e$$

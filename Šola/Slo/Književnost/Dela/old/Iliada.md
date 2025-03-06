@@ -1,7 +1,7 @@
 **Avtor:** Homer
 **Čas:** Antika (Arhajično obdobje (9. - 5. stol.p.n.š.))
 **Vrsta:** Junaški ep
-**Zvrst:** ep
+**Zvrst:** epika
 **Verz:** heksameter / šesterec -> 6 daktilov (6. je trohej)
 
 **Homerska primera:** Obsežna in večkrat jemlje snov iz narave

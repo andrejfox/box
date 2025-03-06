@@ -1,3 +1,7 @@
+**Temna stran meseca** - dvojnica -> naslov razstave pripravljene 1998, ki jo kritično oceni Jančar je Dežela delavcev in kmetov, prikazovala je zgodovino Slovencev po 2. svetovni vojni, ampak zelo enostransko. Odziv na kritiko je bila Temna stran meseca.
+
+Vprašanje med dobrim in zlim -> človek je v tekem času izgubljen, misli na samomor, ničesar ne čuti, kot literarni lik v sanjah smešnega človeka. Od samomora ga odvrača to da ne ve kaj pride po smrti.
+
 Začetno počutje je tesnobnost / ujetost. Čustvi, ki sta v ospredju sta strah in pogum, kar se nam razkriva v nadaljevanju.
 Bunker vidi ne samo kot fizično zatočišče, ampak tudi zatočišče pred družbo
 Dogajalni čas je čas okupacije.
@@ -16,5 +20,3 @@ __ začne pripovedovati o tem kako se je spravil pisati. Omeni, da je že nekaj 
 Ob začetku pisanja govori kako čuti nekaj skoraj "ljubezenskega" v nevarnostni omami. Čuti kako se spreminja in samo aspekt, da nekaj piše (oz. pušča za sabo) mu vzbudi močna pozitivna čustva.
 Vmes omeni, da "se bliža rešitvi - kdo ve." kar nakazuje na njegovo prepričanost, da se mu bliža smrt.
 __ nap pove, da je strahopetec in da to do zelo globoke stopnje, izrazi kako močno ga je motila realizacija, da "je bitje, ki živi v kletki končnega  sveta neizmernega vesolja, hkrati pa je ukleto v greh in zlo".
-**Kaj je imanenca???** -> lastna lastnost
-
