@@ -41,3 +41,9 @@ takoj == sofort
 zdaj (terenutno / pisno) == zurzeit
 pri == bei
 veseliti se == sich freuen
+pravzaprav == Eigentlich
+poklicne želje = Berufswuensche
+spomniti se == sich erinnern
+selbststaending == samostjen
+biolog == biologe
+zidar == bauer
