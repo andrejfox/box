@@ -1,10 +1,12 @@
+dodaj strani x/od max
+
 **1. TEORETIČNI PREGLED**  
     1.1. Pomen beleženja delovnih ur in upravljanja plačil  
     1.2. Pregled obstoječih rešitev in sistemov
 
-**2. OPIS PROJEKTA WORK LOGGER**  
-    2.1. Motivacija in cilji projekta  
-    2.2. Ključne funkcionalnosti  
+**2. OPIS PROJEKTA WORK LOGGER**
+    2.1. Motivacija in cilji projekta
+    2.2. Ključne funkcionalnosti
         2.2.1. Beleženje in brisanje delovnih ur  
         2.2.2. Formatiranje e-mail sporočil za delodajalca  
         2.2.3. Beleženje plačanih in neplačanih obdobij  
