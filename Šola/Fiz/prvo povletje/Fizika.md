@@ -1,4 +1,4 @@
-[[Šola/Fiz/Enačbe|Enačbe]]
+[[Šola/Fiz/prvo povletje/Enačbe|Enačbe]]
 
 [[Interferenca]]
 [[Hitrost zvoka po struni]]
