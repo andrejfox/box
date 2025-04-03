@@ -15,9 +15,13 @@ Proizvodno podjetje, trgovsko podjetje, gospodarstvo, izobraževalni sistem,...
 - [[Sistemi za avtomatizacijo pisarniškega poslovanja]]
 - [[Sistemi za podporo odločanju - SPO]]
 - [[Ekspertni sistemi (ES)]]
+- [[grafi sistemov.canvas|grafi sistemov]]
+- [[Oseba & Vozilo.canvas|Oseba & Vozilo]]
 
 [[Življenjski cikel (SDLC)]]
 [[Programsko inženirstvo (DEF.)]]
+
+
 
 **Razvojni modeli**
 - [[Code & Fix]]

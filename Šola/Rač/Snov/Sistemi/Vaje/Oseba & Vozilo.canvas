@@ -1,108 +1,108 @@
 {
-  "nodes": [
-    {
-      "id": "eb791132c2ecf432",
-      "type": "text",
-      "text": "**Oseba**\n---\n-ime: String\n-priimek: String\n-starost: int \n+elektronski naslov: String\\[2]\n\\#telefonska številka: String\n\n---\n+prikaziPodatkov():String\n+getIme(): String\n+setIme(String): boolean\n+getPriimek(): String\n+setPriimek(String): boolean\n+getStarost(): int \n+setStarost(int): boolean\n",
-      "styleAttributes": {},
-      "x": -220,
-      "y": -240,
-      "width": 440,
-      "height": 460
-    },
-    {
-      "id": "db46f80565baa2ac",
-      "type": "text",
-      "text": "**Vozilo**\n---\n-model: String = \"N/A\"\n-letoIzdelave: int = 1970\n-prostornina: float = 1,0\n+elektronski naslov: String\\[2]\n\\#telefonska številka: String\n\n---\n+Vozilo(): void\n+prikaziPodrobnosti(): String\n+getModel(): String\n+setModel(String): boolean\n+getletoIzdelave(): int\n+setLetoIzdelave(int): boolean\n+getProstornina(): float\n+setProstornina(float): boolean\n",
-      "styleAttributes": {},
-      "x": 260,
-      "y": -380,
-      "width": 440,
-      "height": 480
-    },
-    {
-      "id": "8127a1907473bc18",
-      "type": "text",
-      "text": "**Žival**\n---\n-ime: String\n-starost: int\n\n---\n+Je(): void\n+Spi(): void\n+setIme(String): boolean\n+getIme(): String\n+setStarost(int): boolean\n+getStarost(): int\n+Žival(): void\n+Žival(String): void",
-      "styleAttributes": {},
-      "x": -289,
-      "y": 280,
-      "width": 579,
-      "height": 440
-    },
-    {
-      "id": "dc018730741ef41e",
-      "type": "text",
-      "text": "**Muca**\n---\n+Mjavka(): void\n+Muca(): void",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 580,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "f12477f90eab6fd9",
-      "type": "text",
-      "text": "**Kuža**\n---\n+Laja(): void\n+Kuža(): void",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 320,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "a42e787bfd07599d",
-      "type": "text",
-      "text": "**Članek**\n---\n-naslov: String\n-revija: String\n\n---\n+Članek(): void\n+setNaslov(String): boolean\n+getNaslov(): String\n+setRevija(String): boolean\n+getRevija(): String",
-      "styleAttributes": {},
-      "x": 204,
-      "y": 804,
-      "width": 576,
-      "height": 476
-    },
-    {
-      "id": "5cad2ce401709289",
-      "type": "text",
-      "text": "**Avtor**\n---\n-ime&priimek: String\\[2] \n-datumRojstva: int\n\n---\n+Avtor(): void\n+setIme&priimek(String): boolean\n+getIme&priimek(): String\n+setatumRojstva(String): boolean\n+getatumRojstva(): String",
-      "styleAttributes": {},
-      "x": -258,
-      "y": 824,
-      "width": 259,
-      "height": 436
-    }
-  ],
-  "edges": [
-    {
-      "id": "b35d2999661d97d2",
-      "styleAttributes": {
-        "arrow": null
-      },
-      "fromNode": "f12477f90eab6fd9",
-      "fromSide": "left",
-      "toNode": "8127a1907473bc18",
-      "toSide": "right",
-      "label": "extends"
-    },
-    {
-      "id": "4c0b8d49859ecf6e",
-      "styleAttributes": {
-        "arrow": null
-      },
-      "fromNode": "dc018730741ef41e",
-      "fromSide": "left",
-      "toNode": "8127a1907473bc18",
-      "toSide": "right",
-      "label": "extends"
-    },
-    {
-      "id": "309960f10a2b9200",
-      "styleAttributes": {},
-      "fromNode": "5cad2ce401709289",
-      "fromSide": "right",
-      "toNode": "a42e787bfd07599d",
-      "toSide": "left",
-      "label": "1..* ->  1"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"eb791132c2ecf432",
+			"type":"text",
+			"text":"**Oseba**\n---\n-ime: String\n-priimek: String\n-starost: int \n+elektronski naslov: String\\[2]\n\\#telefonska številka: String\n\n---\n+prikaziPodatkov():String\n+getIme(): String\n+setIme(String): boolean\n+getPriimek(): String\n+setPriimek(String): boolean\n+getStarost(): int \n+setStarost(int): boolean\n",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-240,
+			"width":440,
+			"height":460
+		},
+		{
+			"id":"db46f80565baa2ac",
+			"type":"text",
+			"text":"**Vozilo**\n---\n-model: String = \"N/A\"\n-letoIzdelave: int = 1970\n-prostornina: float = 1,0\n+elektronski naslov: String\\[2]\n\\#telefonska številka: String\n\n---\n+Vozilo(): void\n+prikaziPodrobnosti(): String\n+getModel(): String\n+setModel(String): boolean\n+getletoIzdelave(): int\n+setLetoIzdelave(int): boolean\n+getProstornina(): float\n+setProstornina(float): boolean\n",
+			"styleAttributes":{},
+			"x":260,
+			"y":-380,
+			"width":440,
+			"height":480
+		},
+		{
+			"id":"8127a1907473bc18",
+			"type":"text",
+			"text":"**Žival**\n---\n-ime: String\n-starost: int\n\n---\n+Je(): void\n+Spi(): void\n+setIme(String): boolean\n+getIme(): String\n+setStarost(int): boolean\n+getStarost(): int\n+Žival(): void\n+Žival(String): void",
+			"styleAttributes":{},
+			"x":-289,
+			"y":280,
+			"width":579,
+			"height":440
+		},
+		{
+			"id":"dc018730741ef41e",
+			"type":"text",
+			"text":"**Muca**\n---\n+Mjavka(): void\n+Muca(): void",
+			"styleAttributes":{},
+			"x":520,
+			"y":580,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"f12477f90eab6fd9",
+			"type":"text",
+			"text":"**Kuža**\n---\n+Laja(): void\n+Kuža(): void",
+			"styleAttributes":{},
+			"x":520,
+			"y":320,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"a42e787bfd07599d",
+			"type":"text",
+			"text":"**Članek**\n---\n-naslov: String\n-revija: String\n\n---\n+Članek(): void\n+setNaslov(String): boolean\n+getNaslov(): String\n+setRevija(String): boolean\n+getRevija(): String",
+			"styleAttributes":{},
+			"x":204,
+			"y":804,
+			"width":576,
+			"height":476
+		},
+		{
+			"id":"5cad2ce401709289",
+			"type":"text",
+			"text":"**Avtor**\n---\n-ime&priimek: String\\[2] \n-datumRojstva: int\n\n---\n+Avtor(): void\n+setIme&priimek(String): boolean\n+getIme&priimek(): String\n+setatumRojstva(String): boolean\n+getatumRojstva(): String",
+			"styleAttributes":{},
+			"x":-258,
+			"y":824,
+			"width":259,
+			"height":436
+		}
+	],
+	"edges":[
+		{
+			"id":"b35d2999661d97d2",
+			"styleAttributes":{
+				"arrow":null
+			},
+			"fromNode":"f12477f90eab6fd9",
+			"fromSide":"left",
+			"toNode":"8127a1907473bc18",
+			"toSide":"right",
+			"label":"extends"
+		},
+		{
+			"id":"4c0b8d49859ecf6e",
+			"styleAttributes":{
+				"arrow":null
+			},
+			"fromNode":"dc018730741ef41e",
+			"fromSide":"left",
+			"toNode":"8127a1907473bc18",
+			"toSide":"right",
+			"label":"extends"
+		},
+		{
+			"id":"309960f10a2b9200",
+			"styleAttributes":{},
+			"fromNode":"5cad2ce401709289",
+			"fromSide":"right",
+			"toNode":"a42e787bfd07599d",
+			"toSide":"left",
+			"label":"1..* ->  1"
+		}
+	],
+	"metadata":{}
 }

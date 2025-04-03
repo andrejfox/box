@@ -26,5 +26,5 @@
 **Hiperbola/Pretiravanje** -> 1000 let sem čakav
 **Stopnjevanje** -> presežniki, prišel-videl-zmagal
 **verzni prestop/Inambment (onžambma)** -> ko se misel ne konča na koncu verza mapak se nadaljuje
-**Oksimolon** -> nekaj nespada kupaj (molče trobentav je)
+**Oksimoron** -> nekaj nespada kupaj (molče trobentav je)
 

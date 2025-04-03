@@ -5,3 +5,5 @@
 
 Motiv hrepenenja, doma hrepeni po srečnejšem življenju.
 ponavljanja, pomanjševalnice, ljudska števila
+
+slovenske dolilje so hodile v aleksandrijo egipt

@@ -25,7 +25,7 @@ The song (never let me go)
 **Heilshum** looks like a type of boarding school (internat), in reality its a institution to grow clones.
 
 [[Characters]]
-Chapter 21 presentation: [[predstavitev]]
+Chapter 21 presentation: [[Šola/Mature/Ang/Books/Never Let me go/predstavitev]]
 
 ---
 Part 1 - Hailsham

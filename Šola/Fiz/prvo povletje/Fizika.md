@@ -17,6 +17,10 @@ Babnik: [[fiz_svetloba.pdf]]
 [[Svetloba EM valovanja]]
 [[Yungov poskus]]
 
+Optika:
+[[Beni notes]]
+[[Interferometrija]]
+
 ---
 
 [[Moderna fizika]]
